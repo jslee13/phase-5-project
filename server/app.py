@@ -23,14 +23,14 @@ def get_group_by_id(id):
     else:
         return {'error': 'Group not found'}
 
-@app.get('/forums')
+@app.get('/forum')
 def get_forums():
     all_forums = Forum.query.all()
     return [forum.to_dict() for forum in all_forums], 200
 
-@app.get('/forums/<int:id>')
+@app.get('/groups/<int:id>/forum')
 def get_forum_by_id(id):
-    found_forum = Forum.query.where(Forum.id == id).first()
+    found_forum = Forum.query.where(Forum.group_id == id).first()
     if found_forum:
         return found_forum.to_dict(), 200
     else:
@@ -44,7 +44,7 @@ def get_post_by_id(id):
     else:
         return {'error': 'Post not found'}
     
-@app.post('/posts')
+@app.post('/api/posts')
 def post_post():
     data = request.json
 
@@ -60,15 +60,15 @@ def post_post():
     except:
         return {'error': 'Post Validation errors'}, 422
     
-@app.get('/comments/<int:id>')
+@app.get('/posts/<int:id>/comments')
 def get_comment_by_id(id):
-    found_comment = Comment.query.where(Comment.id == id).first()
+    found_comment = Comment.query.where(Comment.post_id == id).first()
     if found_comment:
         return found_comment.to_dict(), 200
     else:
         return {'error': 'Comment not found'}
 
-@app.post('/comments')
+@app.post('/api/comments')
 def post_comments():
     data = request.json
 

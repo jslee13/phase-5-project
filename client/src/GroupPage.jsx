@@ -9,8 +9,8 @@ function GroupPage(){
     
     return(
         <div>
-            <Genre searchString={searchString} setSearchString={setSearchString} />
-            <GameContainer searchString={searchString} groups={groups}/>
+            <FilterBar searchString={searchString} setSearchString={setSearchString} />
+            <GroupContainer searchString={searchString} groups={groups}/>
 
         </div>
     )

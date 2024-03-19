@@ -39,7 +39,7 @@ class Group(db.Model, SerializerMixin):
     idols = db.relationship("Idol", back_populates="group")
     forums = db.relationship("Forum", back_populates="group")
 
-    serialize_rules = ("-idols.group", "-forums")
+    serialize_rules = ("-idols.group", "-forums.group")
 
 class Idol(db.Model, SerializerMixin):
     __tablename__ = "idols_table"

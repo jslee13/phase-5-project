@@ -1,9 +1,7 @@
 import { useState, useEffect } from 'react'
-import Navbar from './Navbar'
-import GroupPage from './GroupPage'
-import GroupDetails from './GroupDetails'
+// import Navbar from './Navbar'
 import { Outlet } from 'react-router-dom'
-import './App.css'
+// import './App.css'
 
 function App() {
   const [groups, setGroups] = useState([])

@@ -1,43 +1,43 @@
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import { Outlet } from 'react-router-dom';
 import { useOutletContext } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
+import Post from './Post';
 
 
 function Forum() {
     const params = useParams();
     const {groups} = useOutletContext()
-    const [forums, setForums] = useState([])
-    const [posts, setPosts] = useState([])
-    const [comments, setComments] = useState([])
+    const [forums, setForums] = useState(null)
     const navigate = useNavigate();
 
     useEffect(() => {
-        fetch('http://localhost:5555/forums')
+        fetch(`http://localhost:5555/groups/${params.id}/forum`)
           .then(res => res.json())
-          .then(data => setForums(data.group_id))
+          .then(data => setForums(data))
       }, [])
 
 
-    function updatePosts(newPost) {
-    setPosts([...posts, newPost])
-    }
-
-    function updateComments(newComment) {
-    setComments([...comments, newComment])
-    }
-
     function handleClick() {
-        navigate(`/new_posts`)
+        navigate(`/groups/${params.id}/forum/new_post_form`)
+    }
+
+    if(!forums) {
+        return <h1> Loading... </h1>
     }
 
     return (
         <div>
             <h1> {groups.name} Forum Page </h1>
-            <button onclick={handleClick} className="new-post">Add Post</button>
-            <Outlet context={{forums, setForums, posts, setPosts, updatePosts,comments, setComments, updateComments}}/>
-        
+            <button onClick={handleClick} className="new-post">Add Post</button>
+            <ul className="posts-list">
+                {forums.posts.map((post) => {
+                    return (<Post 
+                    post={post}
+                    key={post.id}
+                    />)
+                })}
+            </ul>
         
         </div>
     )
