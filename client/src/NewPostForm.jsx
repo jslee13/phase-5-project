@@ -1,8 +1,8 @@
 import {useState} from "react";
-import {useNavigate} from 'react-router-dom';
-import { useParams } from 'react-router-dom';
+import {useNavigate, useParams, useOutletContext} from 'react-router-dom';
 
 function NewPostForm() {
+    const {currentUser} = useOutletContext()
     const navigate = useNavigate()
     const params = useParams()
     const [formValues, setForumValues] = useState({
@@ -14,13 +14,17 @@ function NewPostForm() {
 function handleSubmit(e) {
     e.preventDefault();
 
+    if (!currentUser) {
+        return alert('Must be logged in to Post')
+    }
+
 
     fetch("/api/posts", {
         method: "POST",
         headers: {
             "content-type": "Application/json",
         },
-        body: JSON.stringify(formValues),
+        body: JSON.stringify({...formValues, user_id:currentUser.id}),
     })
     .then((res) => {
         if (res.ok) {

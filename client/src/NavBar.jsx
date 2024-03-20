@@ -12,10 +12,6 @@ function Navbar({currentUser, setCurrentUser}){
       }
         console.log("the current user is" + currentUser)
     
-    // function isLogin() {
-    //     setCurrentUser(!currentUser)
-    // }
-    
     return(
         <nav>
             <ul>

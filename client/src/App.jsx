@@ -14,7 +14,7 @@ function App() {
   }, [])
 
   useEffect(() => {
-    fetch('/check_session')
+    fetch('/api/check_session')
     .then(res => {
       if (res.ok) {
         res.json()

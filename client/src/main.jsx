@@ -9,6 +9,7 @@ import Forum from './Forum.jsx'
 import NewPostForm from './NewPostForm.jsx'
 import Login from './Login.jsx'
 import SignUp from './SignUp.jsx'
+import './css/Navbar.css'
 
 const routes = [
   {

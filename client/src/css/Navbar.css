@@ -1,0 +1,27 @@
+nav {
+    background-color: #809fff;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .custom-link {
+    text-decoration: none;
+    color: #002db3;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: #bfcfff;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-link:hover {
+    background-color: #ffffff;
+  }

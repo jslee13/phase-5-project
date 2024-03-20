@@ -11,7 +11,6 @@ function Login() {
     
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
-    // const { isAuthenticated, login } = useAuth();
     
 
     async function handleLogin(e) {

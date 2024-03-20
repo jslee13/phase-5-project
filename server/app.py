@@ -10,7 +10,7 @@ bcrypt = Bcrypt(app)
 def index():
     return '<h1>Phase 5 Project/Product</h1>'
 
-@app.get('/check_session')
+@app.get('/api/check_session')
 def check_session():
     user_id = session.get('user_id')
     user = User.query.where(User.id == user_id).first()
@@ -42,7 +42,7 @@ def get_users():
     all_users = User.query.all()
     return [ user.to_dict() for user in all_users], 200
 
-@app.get('/users/<int:id>')
+@app.get('/api/users/<int:id>')
 def get_users_by_id(id):
     found_users = User.query.where(User.id ==id).first()
     if found_users:
