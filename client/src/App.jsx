@@ -1,10 +1,11 @@
 import { useState, useEffect } from 'react'
-// import Navbar from './Navbar'
+import Navbar from './NavBar'
 import { Outlet } from 'react-router-dom'
 // import './App.css'
 
 function App() {
   const [groups, setGroups] = useState([])
+  const [currentUser, setCurrentUser] = useState({})
 
   useEffect(() => {
     fetch('http://localhost:5555/groups')
@@ -12,10 +13,20 @@ function App() {
       .then(data => setGroups(data))
   }, [])
 
+  useEffect(() => {
+    fetch('/check_session')
+    .then(res => {
+      if (res.ok) {
+        res.json()
+        .then( data => setCurrentUser(data) )
+        }
+      })
+  }, [])
+
   return (
       <div>
-
-        <Outlet context={{groups, setGroups}} />
+        <Navbar currentUser = {currentUser} setCurrentUser={setCurrentUser}/>
+        <Outlet context={{groups, setGroups, currentUser, setCurrentUser}} />
         
       </div>
   )

@@ -7,6 +7,8 @@ import GroupPage from './GroupPage'
 import GroupDetails from './GroupDetails'
 import Forum from './Forum.jsx'
 import NewPostForm from './NewPostForm.jsx'
+import Login from './Login.jsx'
+import SignUp from './SignUp.jsx'
 
 const routes = [
   {
@@ -28,6 +30,14 @@ const routes = [
       {
         path:'/groups/:id/forum/new_post_form',
         element: <NewPostForm />
+      },
+      {
+        path:'/login',
+        element: <Login />
+      },
+      {
+        path:'/sign-up',
+        element: <SignUp />
       }
     ]
   }
