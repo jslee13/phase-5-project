@@ -19,16 +19,18 @@ function GroupDetails() {
 
     
     return(
-        <div>
+        <div className='group-details-container'>
             <img className="group-image" src={targetGroup.img_url} />
-            <h2 className="group-name"> {targetGroup.name} </h2>
-            <p> {targetGroup.debut_date} </p>
-            <p> {targetGroup.fandom_name} </p>
-            <p> {targetGroup.youtube} </p>
-            <p> {targetGroup.instagram} </p>
-            <p> {targetGroup.twitter} </p>
-            <p> {targetGroup.tiktok} </p>
-            <p> {targetGroup.info} </p>
+            <div className='group-details'>
+                <h2 className="group-name"> {targetGroup.name} </h2>
+                <p> Debut Date: {targetGroup.debut_date} </p>
+                <p> Fandom Name: {targetGroup.fandom_name} </p>
+                <p> Youtube: {targetGroup.youtube} </p>
+                <p> Instagram: {targetGroup.instagram} </p>
+                <p> Twitter: {targetGroup.twitter} </p>
+                <p> Tiktok: {targetGroup.tiktok} </p>
+                <p className='group-info'> Info: {targetGroup.info} </p>
+            </div>
 
             <IdolContainer group={targetGroup} />
 

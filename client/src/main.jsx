@@ -10,6 +10,8 @@ import NewPostForm from './NewPostForm.jsx'
 import Login from './Login.jsx'
 import SignUp from './SignUp.jsx'
 import './css/Navbar.css'
+import './css/Group.css'
+import './css/Idol.css'
 
 const routes = [
   {

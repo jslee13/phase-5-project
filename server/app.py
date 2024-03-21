@@ -31,7 +31,7 @@ def login():
     else:
         return {'error': 'Invalid username or password'}, 401
 
-@app.delete('/logout')
+@app.delete('/api/logout')
 def logout():
     session.pop('user_id')
     return {}, 204

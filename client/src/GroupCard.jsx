@@ -10,9 +10,9 @@ function GroupCard({group}) {
     
     return(
         <li className="group_item">
-            <div>
+            <div className="group-card" onClick={handleClick}>
                 <h2 className="group-name"> {group.name} </h2>
-                <img onClick={handleClick} className="group-image" src={group.img_url} alt={"Group Cover"} />
+                <img className="group-image-cover" src={group.img_url} alt={"Group Cover"} />
             </div>
 
         </li>

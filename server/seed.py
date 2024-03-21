@@ -1,6 +1,14 @@
+import json
 from app import app
 from model import db, User, Group, Idol, Position, IdolPosition, Forum, Post, Comment
 from random import choice as rc
+
+f = open('db.json')
+data = json.load(f)
+json_groups = data['groups']
+json_idols = data['idols']
+json_positions = data['positions']
+json_idol_positions = data['idol-positions']
 
 if __name__ == '__main__':
     with app.app_context():
@@ -25,117 +33,72 @@ if __name__ == '__main__':
         db.session.add_all(users)
         print("Seeding Users")
 
-        groups = [
-            Group(name="Something", 
-                    img_url="https://kprofiles.com/wp-content/uploads/2020/10/aespa-2-900x600.jpg", 
-                    debut_date="June 1, 2025", 
-                    fandom_name="Nothing", 
-                    youtube="something", 
-                    instagram="something", 
-                    twitter="something x", 
-                    tiktok="something", 
-                    info="They did something"),
-            Group(name="Somethingelse", 
-                    img_url="https://kprofiles.com/wp-content/uploads/2020/10/aespa-2-900x600.jpg", 
-                    debut_date="July 1, 2100", 
-                    fandom_name="Nothingelse", 
-                    youtube="somethingelse", 
-                    instagram="somethingelse", 
-                    twitter="somethingelse x", 
-                    tiktok="somethingelse", 
-                    info="They did somethingelse"),]
+        def create_groups():
+
+            groups = [Group(name=group['name'], 
+            img_url=group['img_url'],
+            debut_date=group['debut_date'],
+            fandom_name=group['fandom_name'],
+            youtube=group['youtube'],
+            instagram=group['instagram'],
+            twitter=group['twitter'],
+            tiktok=group['tiktok'],
+            info=group['info']) 
+            for group in json_groups]
         
-        db.session.add_all(groups)
+            db.session.add_all(groups)
+            db.session.commit()
+
+            return groups
+        
+        groups = create_groups()
         print("Seeding Groups")
 
         
-        idols = [
-            Idol(stage_name="That", 
-                    birth_name="Then", 
-                    img_url="", 
-                    birthday="March 14 2000", 
-                    height="5'3", 
-                    weight="110", 
-                    blood_type="O", 
-                    mbti="ISFP", 
-                    nationality="unknown", 
-                    instagram="Thow", 
-                    facts="Able to jump 2 inches", 
-                    group_id= 1),
+        def create_idols():
+            idols = [Idol(stage_name=idol['stage_name'], 
+            birth_name=idol['birth_name'],
+            img_url=idol['img_url'],
+            birthday=idol['birthday'],
+            height=idol['height'],
+            weight=idol['weight'],
+            blood_type=idol['blood_type'],
+            mbti=idol['mbti'],
+            nationality=idol['nationality'],
+            instagram=idol['instagram'],
+            facts=idol['facts'],
+            group_id=idol['group_id']) 
+            for idol in json_idols]
 
-            Idol(stage_name="Hi", 
-                    birth_name="Bye", 
-                    img_url="", 
-                    birthday="Decemeber 31 1999", 
-                    height="5'2", 
-                    weight="108", 
-                    blood_type="B", 
-                    mbti="ESFJ", 
-                    nationality="American", 
-                    instagram="mid", 
-                    facts="Able to move 2 inches", 
-                    group_id= 1),
+            db.session.add_all(idols)
+            db.session.commit()
 
-            Idol(stage_name="Who", 
-                    birth_name="What", 
-                    img_url="", 
-                    birthday="August 10 2002", 
-                    height="5'5", 
-                    weight="112", 
-                    blood_type="AB", 
-                    mbti="INSP", 
-                    nationality="Japanese", 
-                    instagram="Where", 
-                    facts="Able to think about 2 inches", 
-                    group_id= 1),
+            return idols
 
-            Idol(stage_name="Mike", 
-                    birth_name="Tim", 
-                    img_url="", 
-                    birthday="April 20 2000", 
-                    height="5'8", 
-                    weight="125", 
-                    blood_type="B", 
-                    mbti="INFP", 
-                    nationality="French", 
-                    instagram="Ty", 
-                    facts="Able to see 2 inches", 
-                    group_id= 2),
-
-            Idol(stage_name="Billy", 
-                    birth_name="Bob", 
-                    img_url="", 
-                    birthday="November 27 1998", 
-                    height="5'9", 
-                    weight="118", 
-                    blood_type="A", 
-                    mbti="ESFJ", 
-                    nationality="American", 
-                    instagram="Jones", 
-                    facts="Able to drive 2 inches", 
-                    group_id= 2)
-        ]
-
-        db.session.add_all(idols)
+        idols = create_idols()
         print("Seeding Idols")
 
         
-        positions = [
-            Position(name="Singer"),
-            Position(name="Dancer"),
-            Position(name="Rapper")
-        ]
+        def create_positions():
+            positions = [Position(name=position['name']) for position in json_positions]
 
-        db.session.add_all(positions)
+            db.session.add_all(positions)
+            db.session.commit()
+
+            return positions
+
+        positions = create_positions()
         print("Seeding Positions")
 
+        def create_idol_positions():
+            idol_positions = [IdolPosition(idol_id=idol_position['idol_id'], position_id=idol_position['position_id']) for idol_position in json_idol_positions]
 
-        idol_positions = []
-        for idol in idols:
-            idol_positions.append(
-                IdolPosition(idol=idol, position=rc(positions))
-            )
-        db.session.add_all(idol_positions)
+            db.session.add_all(idol_positions)
+            db.session.commit()
+
+            return idol_positions
+ 
+        idol_positions = create_idol_positions()
         print("Seeding Idol Positions")
 
 
@@ -164,3 +127,5 @@ if __name__ == '__main__':
         db.session.commit()
 
         print("Seeding Done")
+
+f.close()

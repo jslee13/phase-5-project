@@ -1,0 +1,208 @@
+{
+    "groups": [
+        {
+            "id": 1,
+            "name": "Aespa",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/10/aespa_drama_teaser_the_giant_all_group_1.jpg",
+            "debut_date": "November 17, 2020",
+            "fandom_name": "MY (마이)",
+            "youtube": "aespa",
+            "instagram": "@aespa_official",
+            "twitter": "@aespa_official",
+            "tiktok": "@aespa_official",
+            "info": "aespa (에스파), stylized as æspa, is a four-member South Korean girl group under SM Entertainment. The group consists of Karina, Giselle, Winter, and NingNing. They debuted with the digital single, Black Mamba. On June 2, 2022, it has been announced that aespa has signed with Warner Records for global promotions. Their name comes from combining “æ,” derived from “Avatar X Experience,” & “aspect.” The meaning behind the name is various innovative activities to come with the theme of “experiencing a new world via the encounter of the ‘avatar,’ your other self.”"
+        }
+    ],
+    "idols": [
+        {
+            "id": 1,
+            "stage_name": "Karina (카리나)",
+            "birth_name": "Yu Ji-Min (유지민)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/10/aespa_drama_teaser_the_giant_karina_8.jpg",
+            "birthday": "April 11, 2000",
+            "height": "167.8 cm (5’6″)",
+            "weight": "45 kg (99 lbs)",
+            "blood_type": "B",
+            "mbti": "ENFP",
+            "nationality": "Korean",
+            "instagram": "@katarinabluu",
+            "facts": "– She was born in Paldal-gu, Gyeonggi-do, but she grew up in Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea.– She has an older sister, born in 1995.– She’s the tallest member.– She has a black belt in taekwondo.– She made an appearance in Taemin‘s music video of Want.– In 2020, she appeared with Kai from EXO in collaboration of the virtual showcase between Hyundai Motor Company and SM Entertainment.– She trained for 4 years.– Karomi is her nickname.– She is a former ulzzang.– She used to attend at Seongnam Shingi Elementary School, Jeongja Middle School, and Hansol High School.– She loves Red Light by f(x).Her favorite female artists are f(x), Taeyeon, IU, and Park Soojin.– Her foot size is 235–240mm.– She likes green tea and barley tea.– Her ideal type is a nice guy who likes only her, that has a pretty nose, and is taller than 180 cm (5’11 ft).– On February 27, 2024, SM Ent. and C-JeS confirmed that Karina is in a relationship with actor Lee Jae Wook.",
+            "group_id": 1
+        },
+        {
+            "id": 2,
+            "stage_name": "Giselle (지젤)",
+            "birth_name": "Uchinaga Aeri (うちながえり)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/10/aespa_drama_teaser_the_giant_giselle_8.jpg",
+            "birthday": "October 30, 2000",
+            "height": "163~164 cm (5’4″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "ENFP",
+            "nationality": "Japanese-Korean",
+            "instagram": "@aerichandesu",
+            "facts": "– She was born in Garosu-gil, Seoul, South Korea.– Her father is Japanese and her mother is Korean.– She is an only child.– She trained for 11 months.– Her nicknames are Riri & Aeri-chan.– She used to attend at Tokyo International School, and Sacred Heart School in Japan (the same school Rima from NiziU attended).– The Japanese version of her name is Aeri (pronounced as e-ri).– The yearbook quote she used was: “That’s hot.”– Her fandom name is Aerishine.– She speaks Korean, Japanese, English, and a little bit of French.– She was in choir for 4 years as an alto.– She was part of St. Mary’s Choir.– She can play the guitar.– People think she looks like Krystal from f(x).",
+            "group_id": 1
+        },
+        {
+            "id": 3,
+            "stage_name": "Winter (윈터)",
+            "birth_name": "Kim Min-Jeong (김민정)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/10/aespa_drama_teaser_the_giant_winter_7.jpg",
+            "birthday": "January 1, 2001",
+            "height": "163 cm (5’4″)",
+            "weight": "-",
+            "blood_type": "A",
+            "mbti": "INTJ",
+            "nationality": "Korean",
+            "instagram": "@imwinter",
+            "facts": "– She was born in Busan, South Korea.– She has an older brother, born in 1999.– She used to attend at Yangsan Samsung Elementary School, and Yangsan Samsung Middle School.– Her nickname is Baby Rabbit.– She trained for 4 years.– Many fans think that she looks like Girls’ Generation (SNSD)‘s Taeyeon.– She has a dimple on her left cheek.– She was the vice-president of the school.– She intended to become an actress, but she likes to sing and dance, so she decided to become an idol.– She drinks a lot of milk.– Her favorite film genre is action.– She likes eating chocolate and sweets.– She sometimes cooks for her members.",
+            "group_id": 1
+        },
+        {
+            "id": 4,
+            "stage_name": "NingNing (닝닝)",
+            "birth_name": "Ning Yizhuo (宁艺卓)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/10/aespa_drama_teaser_the_giant_ningning_6.jpg",
+            "birthday": "October 23, 2002",
+            "height": "161 cm (5’3″)",
+            "weight": "43 kg (94 lbs)",
+            "blood_type": "O",
+            "mbti": "INFP",
+            "nationality": "Chinese",
+            "instagram": "@imnotningning",
+            "facts": "– She was born in Harbin, China.– She is an only-child.– Her fandom name is NingMeng (her name + lemon in Chinese).– Her hobby is cooking.– She can speak Mandarin, Korean, and a bit of English.– Her favorite colors are red, yellow, and pink.– Her favorite fruits are watermelon and strawberries.– She shares birthday with (G)I-DLE‘s Minnie.– She can play the piano.– She was a member of Let’s Sing Kids in China.– Her favorite drink is Mogu Mogu. (X)– Her favorite member in BLACKPINK is Jennie.– Her name means ‘powerful.’– She trained for about 5 years. (Source)– She has a husky voice.– She appeared on a Chinese contest program Music Honors Student (音乐优等生).– She participated in MBC’s Shining Star, which aired from October 16, 2017.– She became an SM trainee in 2016, and became a member of SM Rookies in the same year on September 19th.",
+            "group_id": 1
+        }
+    ],
+    "positions": [
+        {
+           "id": 1,
+           "name": "Leader" 
+        },
+        {
+            "id":2,
+            "name": "Main Dancer"
+        },
+        {
+            "id":3,
+            "name": "Main Vocalist"
+        },
+        {
+            "id":4,
+            "name": "Main Rapper"
+        },
+        {
+            "id":5,
+            "name": "Lead Dancer"
+        },
+        {
+            "id":6,
+            "name": "Lead Vocalist"
+        },
+        {
+            "id":7,
+            "name": "Lead Rapper"
+        },
+        {
+            "id":8,
+            "name": "Sub-Dancer"
+        },
+        {
+            "id":9,
+            "name": "Sub-Vocalist"
+        },
+        {
+            "id":10,
+            "name": "Sub-Rapper"
+        },
+        {
+            "id":11,
+            "name": "Visual"
+        },
+        {
+            "id":12,
+            "name": "Center"
+        },
+        {
+            "id":13,
+            "name": "Face of the Group"
+        },
+        {
+            "id":14,
+            "name": "Maknae"
+        }
+    ],
+    "idol-positions": [
+        {
+            "id": 1,
+            "idol_id": 1,
+            "position_id": 1
+        },
+        {
+            "id": 2,
+            "idol_id": 1,
+            "position_id": 2
+        },
+        {
+            "id": 3,
+            "idol_id": 1,
+            "position_id": 7
+        },
+        {
+            "id": 4,
+            "idol_id": 1,
+            "position_id": 9
+        },
+        {
+            "id": 5,
+            "idol_id": 1,
+            "position_id": 11
+        },
+        {
+            "id": 6,
+            "idol_id": 1,
+            "position_id": 12
+        },
+        {
+            "id": 7,
+            "idol_id": 1,
+            "position_id": 13
+        },
+        {
+            "id": 8,
+            "idol_id": 2,
+            "position_id": 4
+        },
+        {
+            "id": 9,
+            "idol_id": 2,
+            "position_id": 9
+        },
+        {
+            "id": 10,
+            "idol_id": 3,
+            "position_id": 6
+        },
+        {
+            "id": 11,
+            "idol_id": 3,
+            "position_id": 5
+        },
+        {
+            "id": 12,
+            "idol_id": 3,
+            "position_id": 11
+        },
+        {
+            "id": 13,
+            "idol_id": 4,
+            "position_id": 3
+        },
+        {
+            "id": 14,
+            "idol_id": 4,
+            "position_id": 14
+        }
+    ]
+}

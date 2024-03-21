@@ -62,7 +62,7 @@ class Idol(db.Model, SerializerMixin):
     idol_positions = db.relationship("IdolPosition", back_populates="idol")
     positions = association_proxy("idol_positions", "position")
 
-    serialize_rules = ("-group", "-idol_positions", "-positions.idols", "-positions.idol_positions")
+    serialize_rules = ("positions","-group", "-idol_positions", "-positions.idols", "-positions.idol_positions")
 
 class Position(db.Model, SerializerMixin):
     __tablename__= "positions_table"

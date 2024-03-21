@@ -3,7 +3,7 @@ nav {
     padding: 10px;
   }
   
-  ul {
+.nav-ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ nav {
     justify-content: space-around;
   }
   
-  .custom-link {
+.custom-link {
     text-decoration: none;
     color: #002db3;
     font-weight: bold;
@@ -22,6 +22,6 @@ nav {
     transition: background-color 0.3s;
   }
   
-  .custom-link:hover {
+.custom-link:hover {
     background-color: #ffffff;
   }

@@ -8,13 +8,12 @@ function Navbar({currentUser, setCurrentUser}){
 
     function handleLogout() {
         setCurrentUser(null)
-        fetch('/logout', { method: 'DELETE' })
+        fetch('/api/logout', { method: 'DELETE' })
       }
-        console.log("the current user is" + currentUser)
     
     return(
         <nav>
-            <ul>
+            <ul className="nav-ul">
                 <NavLink to="/" className="custom-link">Home</NavLink>
                 {currentUser ? (
                     <>
@@ -24,7 +23,7 @@ function Navbar({currentUser, setCurrentUser}){
                     ) : (
                         <>
                         <NavLink to="/login" className="custom-link">Login</NavLink>
-                         <NavLink to="/sign-up" className="custom-link">Sign-Up</NavLink>
+                        <NavLink to="/sign-up" className="custom-link">Sign-Up</NavLink>
                         </>
                     )}
             </ul>
