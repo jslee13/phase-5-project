@@ -49,14 +49,14 @@ return (
                 value={formValues.title}
                 onChange={(e) => setForumValues({...formValues, title:e.target.value})}
             />
-            <input
+            <textarea
                 type="text"
                 body="body"
                 placeholder="Body"
                 value={formValues.body}
                 onChange={(e) => setForumValues({...formValues, body:e.target.value})}
             />
-            <button id="create" type="submit">Add Post</button>
+            <button className="create" type="submit">Add Post</button>
         </form>
 
     </div>

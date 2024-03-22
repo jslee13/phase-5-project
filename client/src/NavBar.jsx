@@ -17,7 +17,7 @@ function Navbar({currentUser, setCurrentUser}){
                 <NavLink to="/" className="custom-link">Home</NavLink>
                 {currentUser ? (
                     <>
-                        <li>Welcome, {currentUser.username}</li>
+                        <li className="welcome">Welcome, {currentUser.username}</li>
                         <button onClick={handleLogout}>Logout</button>
                     </>
                     ) : (

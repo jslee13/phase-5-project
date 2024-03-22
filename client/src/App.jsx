@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react'
 import Navbar from './NavBar'
+import Header from './Header'
+import Footer from './Footer'
 import { Outlet } from 'react-router-dom'
-// import './App.css'
+import './css/App.css'
 
 function App() {
   const [groups, setGroups] = useState([])
@@ -29,8 +31,10 @@ function App() {
 
   return (
       <div>
+        <Header />
         <Navbar currentUser = {currentUser} setCurrentUser={setCurrentUser}/>
         <Outlet context={{groups, setGroups, currentUser, setCurrentUser}} />
+        <Footer />
         
       </div>
   )

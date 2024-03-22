@@ -1,9 +1,9 @@
 function Comment({comment}) {
     
     return(
-        <div>
-            <ul>{comment.user?.username}</ul>
-            <ul>{comment.message}</ul>    
+        <div className="comment">
+            <p className="comment-user">{comment.user?.username}:</p>
+            <ul className="comment-message">{comment.message}</ul>    
         </div>
     )
 }

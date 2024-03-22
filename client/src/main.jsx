@@ -12,6 +12,7 @@ import SignUp from './SignUp.jsx'
 import './css/Navbar.css'
 import './css/Group.css'
 import './css/Idol.css'
+import './css/Forum.css'
 
 const routes = [
   {

@@ -9,6 +9,7 @@ json_groups = data['groups']
 json_idols = data['idols']
 json_positions = data['positions']
 json_idol_positions = data['idol-positions']
+json_forums = data['forums']
 
 if __name__ == '__main__':
     with app.app_context():
@@ -101,12 +102,13 @@ if __name__ == '__main__':
         idol_positions = create_idol_positions()
         print("Seeding Idol Positions")
 
-
-        forum = [
-            Forum(group_id = 1),
-            Forum(group_id = 2)
-        ]
-        db.session.add_all(forum)
+        def create_forums():
+            forums = [Forum(group_id=forum['group_id']) for forum in json_forums]
+        
+            db.session.add_all(forums)
+            db.session.commit()
+        
+        forums = create_forums()
         print("Seeding Forums")
 
 

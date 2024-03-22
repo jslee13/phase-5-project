@@ -7,6 +7,7 @@ function Post({post}) {
     const {currentUser} = useOutletContext
     const [message, setMessage] = useState("")
     const [comments, setComments] = useState(post.comments)
+    const [detail, setDetail] = useState(false)
     
     async function handleSubmit (e) {
         e.preventDefault()
@@ -40,12 +41,16 @@ function Post({post}) {
         setMessage(e.target.value)
     }
 
+    function onRender() {
+        setDetail(!detail)
+    }
+
     return(
-        <div>
-            <h2> {post.title} </h2>
-            <p>{post.user?.username}</p>
-            <p> {post.body} </p>
-            <h3>Comments:</h3>
+        <div className="post-container">
+            <h2 className="posts-title"> {post.title} </h2>
+            <p className="post-author">{post.user?.username}</p>
+            <p className="post-body"> {post.body} </p>
+            <h3 className="post-comments">Comments:</h3>
             <ul className="posts-list">
                 {comments.map((comment) => {
                     return (<Comment 
@@ -53,7 +58,7 @@ function Post({post}) {
                     key={comment.id}
                     />)
                 })} </ul>
-            <form onSubmit={handleSubmit}>
+            <form className="comment-form" onSubmit={handleSubmit}>
                 <textarea className='comment-section' value={message} onChange={handleCommentChange} placeholder="Write your comment" />
                 <button type="submit"> Add Comment </button>
             </form>

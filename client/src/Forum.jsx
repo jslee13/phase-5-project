@@ -9,6 +9,8 @@ function Forum() {
     const [forums, setForums] = useState(null)
     const navigate = useNavigate();
 
+    console.log(groups)
+
     useEffect(() => {
         fetch(`http://localhost:5555/groups/${params.id}/forum`)
           .then(res => res.json())
@@ -25,18 +27,20 @@ function Forum() {
     }
 
     return (
-        <div>
-            <h1> {groups.name} Forum Page </h1>
-            <button onClick={handleClick} className="new-post">Add Post</button>
-            <ul className="posts-list">
-                {forums.posts.map((post) => {
-                    return (<Post 
-                    post={post}
-                    key={post.id}
-                    />)
-                })}
-            </ul>
+        <div className='forum-container'>
+            <div className='forum-header'>
+                <h1> {groups.name} Forum Page </h1>
+                <button onClick={handleClick} className="new-post-btn">Add Post</button>
+                <ul>
+                    {forums.posts.map((post) => {
+                        return (<Post 
+                        post={post}
+                        key={post.id}
+                        />)
+                    })}
+                </ul>
         
+            </div>
         </div>
     )
 

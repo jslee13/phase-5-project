@@ -1,6 +1,8 @@
 nav {
-    background-color: #809fff;
+    background-color: var(--candy-red);
     padding: 10px;
+    border-style: groove;
+    border-color: black;
   }
   
 .nav-ul {
@@ -8,20 +10,25 @@ nav {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
   }
+
+.nav-ul li {
+  margin-right: 20px
+}
   
 .custom-link {
     text-decoration: none;
-    color: #002db3;
+    color: var(--electric-blue);
     font-weight: bold;
     font-size: 18px;
-    padding: 5px 10px;
-    border-radius: 15px;
-    background-color: #bfcfff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: var(--sunshine-yellow);
     transition: background-color 0.3s;
+    margin-right: 20px;
   }
   
 .custom-link:hover {
-    background-color: #ffffff;
+  background-color: var(--neon-green);
   }

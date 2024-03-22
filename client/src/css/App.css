@@ -1,1 +1,47 @@
+:root {
+    --bubblegum-pink: #ff6ec7;
+    --electric-blue: #4b6cb7;
+    --sunshine-yellow: #ffd166;
+    --lilac-purple: #a051e0;
+    --neon-green: #39ff14;
+    --candy-red: #ff6b6b;
+    --turquoise: #1abc9c;
+    --pastel-orange: #ffb347;
+  }
 
+body {
+    background-color: var(--electric-blue);
+    color: white;
+  }
+
+.search {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search input {
+    padding: 15px; 
+    font-size: 16px; 
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px; 
+  }
+  
+  .title {
+      font-family: 'Your Cool Font', copperplate;
+      font-size: 48px;
+      font-weight: bold;
+      color: white;
+      margin-bottom: 20px;
+      display: flex;
+      padding: 20px;
+      background-color: var(--bubblegum-pink);
+  }
+
+  .footer {
+    background-color: var(--lilac-purple);
+    color: white;
+    padding: 20px;
+  }

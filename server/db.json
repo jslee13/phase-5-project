@@ -11,6 +11,30 @@
             "twitter": "@aespa_official",
             "tiktok": "@aespa_official",
             "info": "aespa (에스파), stylized as æspa, is a four-member South Korean girl group under SM Entertainment. The group consists of Karina, Giselle, Winter, and NingNing. They debuted with the digital single, Black Mamba. On June 2, 2022, it has been announced that aespa has signed with Warner Records for global promotions. Their name comes from combining “æ,” derived from “Avatar X Experience,” & “aspect.” The meaning behind the name is various innovative activities to come with the theme of “experiencing a new world via the encounter of the ‘avatar,’ your other self.”"
+        },
+        {
+            "id": 2,
+            "name": "BTS",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_all_group.jpg",
+            "debut_date": "June 13, 2013",
+            "fandom_name": "A.R.M.Y (Adorable Representative MC for Youth)",
+            "youtube": "-",
+            "instagram": "@bts.bighitofficial",
+            "twitter": "@bts_twt",
+            "tiktok": "@bts_official_bighit",
+            "info": "BTS (방탄소년단) is a South Korean boy group that consists of 7 members: RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook. They are under Big Hit Music (part of HYBE Labels). BTS debuted with the lead single ‘No More Dream‘ on album ‘2 Cool 4 Skool‘. On June 15, 2022 BigHit Music released an announcement stating that BTS would not go on hiatus, but will focus on releasing solo music for a while.”"
+        },
+        {
+            "id": 3,
+            "name": "NewJeans",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_all_group_4.jpg",
+            "debut_date": "July 22, 2022",
+            "fandom_name": "Bunnies (Tokki/토끼)",
+            "youtube": "NewJeans",
+            "instagram": "@newjeans_official",
+            "twitter": "@NewJeans_ADOR",
+            "tiktok": "@newjeans_official",
+            "info": "NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention”, followed by their debut extended play, New Jeans, which was released on August 1, 2022."
         }
     ],
     "idols": [
@@ -73,6 +97,186 @@
             "instagram": "@imnotningning",
             "facts": "– She was born in Harbin, China.– She is an only-child.– Her fandom name is NingMeng (her name + lemon in Chinese).– Her hobby is cooking.– She can speak Mandarin, Korean, and a bit of English.– Her favorite colors are red, yellow, and pink.– Her favorite fruits are watermelon and strawberries.– She shares birthday with (G)I-DLE‘s Minnie.– She can play the piano.– She was a member of Let’s Sing Kids in China.– Her favorite drink is Mogu Mogu. (X)– Her favorite member in BLACKPINK is Jennie.– Her name means ‘powerful.’– She trained for about 5 years. (Source)– She has a husky voice.– She appeared on a Chinese contest program Music Honors Student (音乐优等生).– She participated in MBC’s Shining Star, which aired from October 16, 2017.– She became an SM trainee in 2016, and became a member of SM Rookies in the same year on September 19th.",
             "group_id": 1
+        },
+        {
+            "id": 5,
+            "stage_name": "RM (아르엠)",
+            "birth_name": "Kim Nam Joon (김남준)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_RM.jpg",
+            "birthday": "September 12, 1994",
+            "height": "181 cm (5’11”)",
+            "weight": "76 kg (167 lbs)",
+            "blood_type": "A",
+            "mbti": "ENTP",
+            "nationality": "Korean",
+            "instagram": "@rkive / @rpwprpwprpwp",
+            "facts": "– He was born in Ilsan, Gyeonggi-do, South Korea.– He has a younger sister, Kim Kyung Min.– Education: Apgujeong High School; Global Cyber University – Electronic engineering major (bachelor)– In 2006 RM studied languages in New Zealand for 4 months. (Bon Voyage 4 – Ep 1)– His favorite foods are meat (especially Samgyeopsal) and Kalguksu (Korean knife noodles).–His stage name was formerly Rap Monster (랩몬스터)– He taught himself how to speak English and can speak it extremely well.– BTS has been around since 2010, but they debuted in 2013 because of the constant member change up. RM is the only member left from the original line up.– Despite his rough and tough image, he is very playful and relaxed.– Hobbies: Surfing the web.– His favorite colors are black, pink, and purple. (BTS interview for J-14 Magazine from 170505)– His favorite number is 1.– His favorite items are clothes, computer, books.– He likes clear weather.– His role models are Kanye West, and A$AP Rocky.– He is a big advocated for lgbtqia+ rights.– RM thinks silver hair suits him the best. (Buzz Feed Interview 2018)– He has co-composed/co-produced 160+ songs.– He released his first solo mixtape, “RM” on March 17, 2015.– On November 13 2017, Namjoon wrote a message on the group’s official fan cafe announcing he changed his stage name from Rap Monster to RM. Namjoon stated that “RM” stands for “Real Me”.– He made his official solo debut on December 2, 2022 with the full-length album “Indigo“.– On December 11, 2023 RM and V quietly enlisted at the Korean Army Training Center in Nonsan.– RM’s ideal type: “sexy, even to a brain. Someone that is thoughtful and confident”",
+            "group_id": 2
+        },
+        {
+            "id": 6,
+            "stage_name": "Jin (진)",
+            "birth_name": "Kim Seok Jin (김석진)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_Jin.jpg",
+            "birthday": "December 4, 1992",
+            "height": "179.5cm (5’10.6″)",
+            "weight": "61 kg (134 lbs)",
+            "blood_type": "O",
+            "mbti": "INTP",
+            "nationality": "Korean",
+            "instagram": "@jin",
+            "facts": "– He was born in Anyang, Gyeonggi-do, but when he was about 1 year old his family moved to Gwacheon, Gyeonggi-do– He has an older brother, Kim Seok Joong, 2 years older than him.– Education: Konkuk University; Hanyang Cyber University – Films major (masters/graduate)– He is the oldest member.– His favorite number is 4.– His favorite weather is Spring sunlight.– Hobbies: Cooking, playing videogames on Nintendo devices, taking selcas.– His role model is T.O.P from BIGBANG.– He blinks his left eye when he is hungry.– Jin’s favorite color is blue. (According to BTS interview for J-14 Magazine from 170505). His favorite color used to be pink.– He also likes Disney princesses.– He is a very good cook.– He enjoys looking at photos and recipes.– His favorite foods are lobster, meat, and naengmyeon (Korean cold noodles).– According to the other members, he has the best body in Bangtan.– Jin thinks pink hair suits him the best. (Buzz Feed Interview 2018)– He made his solo debut on October 28, 2022 with the single album “The Astronaut“.– On December 13, 2022 Jin officially enlisted as an active-duty soldier. His estimated discharge date is June 12, 2024.– Jin’s ideal type is a girl whose looks and personality is similar to that of a puppy, who’s good at cooking, kind and takes good care of him.",
+            "group_id": 2
+        },
+        {
+            "id": 7,
+            "stage_name": "Suga (슈가)",
+            "birth_name": "Min Yoon Gi (민윤기)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_Suga.jpg",
+            "birthday": "March 9, 1993",
+            "height": "174 cm (5’8.5″)",
+            "weight": "63 kg (138 lbs)",
+            "blood_type": "O",
+            "mbti": "ISTP",
+            "nationality": "Korean",
+            "instagram": "@agustd",
+            "facts": "– He was born in Buk-gu, Daegu, South Korea.– He has an older brother, Min Geumjae (born Min Junki).– Education: Global Cyber University – Liberal Arts Major (bachelor)– He speaks with a satoori accent when he’s nervous and when he cries.– Hobbies: Doing nothing when he has free time, taking photos, avoiding having to do work.– His favorite food is meat.– He is called Motionless Min because on his days off he doesn’t do anything.– His favorite color is white.– His favorite number is 3– Suga loves taking photos.– His favorite weather is where you can wear short sleeves at day and long sleeves at night.– He likes to make rhymes for everyday situations/gags.– His role models are Kanye West, Lupe Fiasco, Lil Wayne, and Hit Boy.– Suga has co-composed/co-produced 120+ songs.– Suga uses the alias Agust D for his solo works. (“DT”, short for his birth place “Daegu Town”, and “Suga”, spelled backwards)– He made his official solo debut on April 21, 2023 with the full-length album “D-Day“.– Suga started his military service on September 22, 2023.– Suga’s ideal type is someone who likes music, especially hip-hop. He says he doesn’t really care about looks.",
+            "group_id": 2
+        },
+        {
+            "id": 8,
+            "stage_name": "J-Hope (제이홉)",
+            "birth_name": "Jung Ho Seok (정호석)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_J-Hope.jpg",
+            "birthday": "February 18, 1994",
+            "height": "177 cm (5’9½”)",
+            "weight": "65 kg (143 lbs)",
+            "blood_type": "A",
+            "mbti": "INFJ",
+            "nationality": "Korean",
+            "instagram": "@uarmyhope",
+            "facts": "– He was born in Gwangju, South Korea.– He has an older sister known as, Mejiwoo.– His father is a high school literature teacher (teaching at Gwangju Global High School).– Education: Gwangju Global High School; Global Cyber University– Was the rapper in 2AM‘s JoKwon‘s “Animal“.– Chose the name “J-Hope” as his stage name because he wants to be a source of light and hope to his fans.– He loves kimchi.– His favorite season is Spring.– Hobbies: Listening to music and window shopping.– His favorite color is green. (because it’s the color of hope – Billboard interview)– His favorite number is 7.– He auditioned and won a popularity award at a JYP Entertainment competition.– He is very clean.– He hates exercising/working out.– J-Hope and B.A.P Youngjae auditioned together for their JYP audition.– His role models are G-dragon of BIGBANG, A$AP Rocky, J.Cole, and Beenzino.– He thinks red hair suits him the best. (Buzz Feed Interview 2018)– J-Hope has co-composed/co-produced 110+ songs.– On March 2, 2018, J-Hope released his 1st mixtape “Hope World”, with the title track “Daydream”.– He made his official solo debut on July 15, 2022 with the album Jack In The Box.– On April 18, 2023, J-Hope started his military service. His estimated discharge date is October 2024.– J-Hope’s ideal type is a girl who loves him, is good at cooking, and thinks a lot.",
+            "group_id": 2
+        },
+        {
+            "id": 9,
+            "stage_name": "Jimin (지민)",
+            "birth_name": "Park Ji Min (박지민)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_Jimin.jpg",
+            "birthday": "October 13, 1995",
+            "height": "174 cm (5’8.5″)",
+            "weight": "58.6 kg (129 lbs)",
+            "blood_type": "A",
+            "mbti": "ESTP",
+            "nationality": "Korean",
+            "instagram": "@j.m",
+            "facts": "– He was born in Busan, South Korea.– He has a younger brother, Park Jihyun.– Education: Busan High School of Arts; Global Cyber University – Theatre and film major (bachelor)– Jimin was the last member to join BTS.– Hobbies: Relaxing whenever he gets a chance.– His favorite number is number 3– His favorite colors are blue and black.– His favorite foods are pork, duck, chicken, fruit, and kimchi jjigae.– Jimin doesn’t like spinach (Run BTS ep. 65)– He prefers a sunny and cool weather.– Is known for his impressive abs.– He jokingly hits his fellow members as a way of showing his affection for them– If music is playing he will start to dance no matter where he is.– His role model is TaeYang of BIGBANG.– He made his solo debut on March 24, 2023 with the mini album “Face“.– Jimin and Jungkook enlisted on December 12, 2023.– Jimin’s ideal type is a nice and cute girl who is smaller than him.",
+            "group_id": 2
+        },
+        {
+            "id": 10,
+            "stage_name": "V (뷔)",
+            "birth_name": "Kim Tae Hyung (김태형)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_V.jpg",
+            "birthday": "December 30, 1995",
+            "height": "179 cm (5’10.4″)",
+            "weight": "64 kg (141 lbs)",
+            "blood_type": "AB",
+            "mbti": "INFP-T",
+            "nationality": "Korean",
+            "instagram": "@thv",
+            "facts": "– He was born in Daegu, but later moved to Geochang where he spent his life until he moved to Seoul.– He has a younger sister (Kim Eun Jin) and a younger brother (Kim Jong Gyu).– Education: Korea Art School; Global Cyber University– It is said that when his teaser image was released 5 personal fan clubs were created.– He has been in the group for awhile, but fans didn’t know of hear of him until the time around his debut.– He likes anything that is unique.– V’s favorite foods are Japchae and any type of meat.– Hobbies: Searching for music that no one listens to, going on the computer.– His favorite number is 10.– His favorite color is grey. (According to BTS interview for J-14 Magazine from 170505)– They call him Blank Tae because of his blank expression.– He has a habit of biting his nails and sticking out his tongue.– His role model is his dad.– V favorite items are computer, big dolls, clothes, shoes, accessories, and anything unique.– Members say he is a horrible cook.– He acted in the Korean drama “Hwarang” (2016-2017).– V ranked 1st in the “Top 100 Most Handsome Faces of 2017“.– V thinks red hair suits him the best. (Buzz Feed Interview 2018)– He is  made his solo debut on September 8, 2023 with the mini album “Layover“.– On December 11, 2023 V and RM officially enlisted at the Korean Army Training Center in Nonsan.– V’s ideal type is someone who takes care of him and loves only him and who has a lot of aegyo.",
+            "group_id": 2
+        },
+        {
+            "id": 11,
+            "stage_name": "Jungkook (정국)",
+            "birth_name": "Jeon Jung Kook (전정국)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_Jungkook.jpg",
+            "birthday": "September 1, 1997",
+            "height": "177 cm (5’9½”)",
+            "weight": "71 kg (156 lbs)",
+            "blood_type": "A",
+            "mbti": "INTP-T",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– He was born in Busan, South Korea.– He has an older brother, Jeon Junghyun.– Education: Seoul School of Performing Arts; Global Cyber University– Before joining the group he was a handball player.– Hobbies: Drawing.– GOT7‘s Bambam & Yugyeom, BTS‘s Jungkook, Seventeen‘s The8, Mingyu, DK,  NCT‘s Jaehyun and Astro‘s Cha Eunwoo (the ’97 liners) are in a group chat.– His favorite foods are anything with flour (pizza, bread, etc)– He likes the number 1– His favorite color is black. (Run BTS Ep. 39)– Jungkook thinks black hair color suits him the best. (Buzz Feed Interview 2018)– Said to be a very skilled cook.– He likes shoes and makeup.– Jungkook is ranked 1st on TC Candler “The 100 Most Handsome Faces of 2019”.– His role model is G-Dragon of BIGBANG.– He made his solo debut on July 14, 2023 with the digital single “Seven“.– Jungkook and Jimin enlisted on December 12, 2023.– Jung Kook’s ideal type is someone who’s at least 168 cm but smaller than him, is a good wife, good at cooking, smart, has pretty legs, and is nice. Also a girl who likes him and is good at singing.",
+            "group_id": 2
+        },
+        {
+            "id": 12,
+            "stage_name": "Minji (민지)",
+            "birth_name": "Kim Minji (김민지)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_minji_1.jpg",
+            "birthday": "May 07, 2004",
+            "height": "169 cm (5’6.5”)",
+            "weight": "-",
+            "blood_type": "A",
+            "mbti": "ISFJ",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– She was born in Chuncheon, Gangwon, South Korea.– She has a older brother and a younger sister.– She is a former Source Music trainee.– Minji joined Source Music during her second year of middle school.– She was the face of the Plus Global Auditions in 2019.– Her favorite seasons are summer and winter, but she has a bit of a preference for summer.– She likes eating ice cream.– Despite the many different results she’s gotten on MBTI tests, Minji thinks ESTJ suits her best.– For a short time, Minji home stayed in Canada in elementary school to study English.– Minji doesn’t like Hawaiian pizza or mint chocolate.– She’s a member of the journaling club on Phoning (the app for NewJeans).– Her favorite Baskin Robbins flavor is New York Cheesecake.– Minji’s hobby is reading and decorating her diary.– She’s the cleanup queen of NewJeans.– Her nickname is teddy bear.– What she wants to do with the members is have a pajama party, camp, and have a cooking show.– Some hashtags that she uses to represent her is #Round (Since her eyes and face are round), #Minji, and #NewJeans.",
+            "group_id": 3
+        },
+        {
+            "id": 13,
+            "stage_name": "Hanni (하니)",
+            "birth_name": "Hanni Pham",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_hanni_2.jpg",
+            "birthday": "October 6, 2004",
+            "height": "161.7 cm (5’3.7”)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "INFP",
+            "nationality": "Vietnamese-Australian",
+            "instagram": "-",
+            "facts": "– She was born in Melbourne, Victoria, Australia.– She has a younger sister named Jasmine (born in 2007).– Ethnically she is fully Vietnamese– Her favorite foods are bread, meat, and everything.– She was raised in a catholic household– Hanni can speak Vietnamese, English, and Korean.— Hanni is a Brand Ambassador for Gucci Cosmogonie— She was apart of the Australian dance cover group AEMINA Dance Crew.– She was a fan of One Direction when she was younger.– Hanni plays the ukelele.– Some things she hates are apples that aren’t crunchy and spiders.— She is the 1st Vietnamese idol under HYBE.– Her nickname is Pigtails.– She likes watching movies so much that she watches at least one movie a week.– She likes eating Hawaiian pizza and mint chocolate.– Hanni likes taking pictures of clouds whether it’s strange, pretty, or cute.– She loves wearing hoodies.– Hanni likes going for walks at night because of the cool atmosphere and temperature.– Even though she’s not good at sports, she enjoys playing it.– M/V appearances: BTS – Permission To Dance– Her Baskin Robbins picks are almond bongbong and melon.– Hanni’s favorite colors are grey and mint.– Her hobbies are watching movies and vlogs.– She’s good at sleeping fast anywhere, even while sitting.– Hanni’s habit is holding in her laugh while she laughs, which makes a weird sound.",
+            "group_id": 3
+        },
+        {
+            "id": 14,
+            "stage_name": "Danielle (다니엘)",
+            "birth_name": "Danielle Marsh",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_danielle_1.jpg",
+            "birthday": "April 11, 2005",
+            "height": "165 cm (5’5″)",
+            "weight": "-",
+            "blood_type": "AB",
+            "mbti": "ENFP",
+            "nationality": "Korean-Australian",
+            "instagram": "-",
+            "facts": "– Danielle was born in Munsan, Paju, Gyeonggi-do, South Korea.– Her father is Australian and her mother is Korean.– She has an older sister, born in 2000.– She can speak English and Korean.– Danielle appeared on tvN’s 다시보는 리얼키즈스토리레인보우 in 2011.– Danielle has been swimming since she was very young (She swam a LOT).– Her surname Mo is rare in Korea, having about 20,000 people with that surname (She’s apart of the Hampyeong Mo clan).– She began training in early 2020.– She wants to start a surfing club with Hanni since she loves surfing so much.– People say she looks like Kim Yoojung.– A hashtag that represents her is #Sunflower, since she is the sunflower of the group.– Her hobby is drawing, painting, listening to music, swimming, and talking with the members.– She has a habit of putting on socks before she sleeps.– Next time, she would like to travel with the members on a picnic, going to the amusement parks, perform on stage, camp, and cook.– Her favorite foods are the ones that her mom makes, Korean food, vegetables, and fruits.",
+            "group_id": 3
+        },
+        {
+            "id": 15,
+            "stage_name": "Haerin (해린)",
+            "birth_name": "Kang Haerin (강해린)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_haerin_3.jpg",
+            "birthday": "May 15, 2006",
+            "height": "164.5 cm (5’5”)",
+            "weight": "-",
+            "blood_type": "B",
+            "mbti": "INTJ",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– Haerin was born in Seoul, South Korea.– She has a younger sister, born in 2009.– She can speak English and Korean.– Her nickname is Kitty Kang.– Haerin used to play pansori, and was nicknamed the voice fairy.– She likes learning new things.– Her favorite food is Korean food, raw fish, and nuts, but she really just likes eating everything.– She’s a very curious person.– Haerin’s specialty is listening and finding music.– She thinks she’s very unpredictable.– Her hobby is listening to music and reading.– She loves bright colors and flowery scents.– Haerin has a habit of spraying aroma before sleeping since it comforts her and because of the refreshing scent.",
+            "group_id": 3
+        },
+        {
+            "id": 16,
+            "stage_name": "Hyein (혜인)",
+            "birth_name": "Lee Hyein (이혜인)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/newjeans_omg_hyein_3.jpg",
+            "birthday": "April 21, 2008",
+            "height": "170 cm (5’7″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "INFP",
+            "nationality": "Korean",
+            "instagram": "@hyein_grace",
+            "facts": "– Hyein was born in Incheon, South Korea.– She has an older sister (born in 2003) and an older brother (born in 2005).– She can speak Korean and English.– Hyein’s favorite fruit is strawberry.– Hyein appeared on Pocket TV as part of the Play With Me Club.– Friends with CLASS:y’s Riwon– Hyein is a huge fan of girl group EVERGLOW.– Hyein loves Harry Potter, and has a bunch of its books in English and Korean (she has like over 15 books), and also has Harry Potter’s wand.– Hyein attended Wannabe Academy.– She is friends with BABYMONSTER‘s Rora.– She was part of the Kids Planet’s kids girl group USSO.GIRL under the stage name U.jeong.– On December 30, 2022, Hyein was announced to be chosen as the newest brand ambassador for Louis Vuitton. She is the youngest to ever do so, at age 14.",
+            "group_id": 3
         }
     ],
     "positions": [
@@ -203,6 +407,175 @@
             "id": 14,
             "idol_id": 4,
             "position_id": 14
+        },
+        {
+            "id": 15,
+            "idol_id": 5,
+            "position_id": 1
+        },
+        {
+            "id": 16,
+            "idol_id": 5,
+            "position_id": 4
+        },
+        {
+            "id": 17,
+            "idol_id": 6,
+            "position_id": 9
+        },
+        {
+            "id": 18,
+            "idol_id": 6,
+            "position_id": 11
+        },
+        {
+            "id": 19,
+            "idol_id": 7,
+            "position_id": 7
+        },
+        {
+            "id": 20,
+            "idol_id": 8,
+            "position_id": 2
+        },
+        {
+            "id": 21,
+            "idol_id": 8,
+            "position_id": 10
+        },
+        {
+            "id": 22,
+            "idol_id": 8,
+            "position_id": 6
+        },
+        {
+            "id": 23,
+            "idol_id": 9,
+            "position_id": 2
+        },
+        {
+            "id": 24,
+            "idol_id": 9,
+            "position_id": 6
+        },
+        {
+            "id": 25,
+            "idol_id": 10,
+            "position_id": 9
+        },
+        {
+            "id": 26,
+            "idol_id": 10,
+            "position_id": 11
+        },
+        {
+            "id": 27,
+            "idol_id": 11,
+            "position_id": 3
+        },
+        {
+            "id": 28,
+            "idol_id": 11,
+            "position_id": 5
+        },
+        {
+            "id": 29,
+            "idol_id": 11,
+            "position_id": 10
+        },
+        {
+            "id": 30,
+            "idol_id": 11,
+            "position_id": 12
+        },
+        {
+            "id": 31,
+            "idol_id": 11,
+            "position_id": 14
+        },
+        {
+            "id": 32,
+            "idol_id": 12,
+            "position_id": 1
+        },
+        {
+            "id": 32,
+            "idol_id": 12,
+            "position_id": 4
+        },
+        {
+            "id": 33,
+            "idol_id": 12,
+            "position_id": 5
+        },
+        {
+            "id": 34,
+            "idol_id": 13,
+            "position_id": 2
+        },
+        {
+            "id": 35,
+            "idol_id": 13,
+            "position_id": 6
+        },
+        {
+            "id": 36,
+            "idol_id": 13,
+            "position_id": 10
+        },
+        {
+            "id": 37,
+            "idol_id": 13,
+            "position_id": 12
+        },
+        {
+            "id": 38,
+            "idol_id": 14,
+            "position_id": 6
+        },
+        {
+            "id": 38,
+            "idol_id": 14,
+            "position_id": 7
+        },
+        {
+            "id": 39,
+            "idol_id": 15,
+            "position_id": 3
+        },
+        {
+            "id": 40,
+            "idol_id": 15,
+            "position_id": 11
+        },
+        {
+            "id": 41,
+            "idol_id": 16,
+            "position_id": 5
+        },
+        {
+            "id": 42,
+            "idol_id": 16,
+            "position_id": 9
+        },
+        {
+            "id": 43,
+            "idol_id": 16,
+            "position_id": 14
+        }
+    ],
+    "forums": [
+        {
+            "id": 1,
+            "group_id": 1
+        },
+        {
+            "id": 2,
+            "group_id": 2
+        },
+        {
+            "id": 3,
+            "group_id": 3
         }
     ]
 }

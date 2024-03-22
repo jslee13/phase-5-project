@@ -1,0 +1,217 @@
+  .forum-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* padding: 20px; */
+    background-color: #f8f9fa;
+    color: black;
+    margin-top: 10px;
+  }
+  
+  .forum-header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: black;
+    border-style: inset;
+  }
+
+  .forum-header h1 {
+    color: #343a40;
+    font-size: 36px;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  .new-post-btn {
+    background-color: #0079d3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .new-post-btn:hover {
+    background-color: #005ea6;
+  }
+  
+  .posts-list {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .post-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 1000px;
+  }
+  
+  .post-container:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .posts-title {
+    margin-top: 0;
+  }
+  
+  .post-comments {
+    margin-bottom: 5px;
+  }
+  
+  .comment-form {
+    margin-top: 10px;
+  }
+  
+  .comment-section {
+    width: 97%;
+    padding: 5px;
+    margin-bottom: 5px;
+    resize: vertical;
+  }
+  
+  .comment-section:focus {
+    outline: none;
+    border: 1px solid #0079d3;
+  }
+  
+  .comment-form button {
+    background-color: #0079d3;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .comment-form button:hover {
+    background-color: #005ea6;
+  }
+  
+  .new-post-form {
+    padding: 1rem;
+    margin: 1rem;
+    height: 675px;
+    background-image: url(https://www.middlebury.edu/language-schools/sites/www.middlebury.edu.language-schools/files/2023-06/k-pop.jpg?fv=TjmmEChV);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.7;
+}
+
+
+.new-post-form h2 {
+    align-self: center;
+    line-height: 50px;
+    
+}
+
+.new-post-form form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+.new-post-form input {
+    text-align: center;
+    margin-bottom: 2rem;
+    flex: 1;
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.new-post-form textarea {
+    height: 200px;
+    resize: none;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+.create {
+  width: 220px;
+  height: 50px;
+  border: none;
+  outline: none;
+  color: #fff;
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.create:before {
+  content: '';
+  background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+  position: absolute;
+  top: -2px;
+  left:-2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing 20s linear infinite;
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
+  border-radius: 10px;
+}
+
+.create:active {
+  color: #000
+}
+
+.create:active:after {
+  background: transparent;
+}
+
+.create:hover:before {
+  opacity: 1;
+}
+
+.create:after {
+  z-index: -1;
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #111;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+@keyframes glowing {
+  0% { background-position: 0 0; }
+  50% { background-position: 400% 0; }
+  100% { background-position: 0 0; }
+}
+
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+  }
