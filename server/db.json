@@ -35,6 +35,78 @@
             "twitter": "@NewJeans_ADOR",
             "tiktok": "@newjeans_official",
             "info": "NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention”, followed by their debut extended play, New Jeans, which was released on August 1, 2022."
+        },
+        {
+            "id": 4,
+            "name": "Stray Kids",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_all_group.jpg",
+            "debut_date": "March 25, 2018",
+            "fandom_name": "STAY",
+            "youtube": "Stray Kids",
+            "instagram": "realstraykids",
+            "twitter": "Stray_Kids",
+            "tiktok": "@jypestraykids",
+            "info": "Stray Kids (스트레이 키즈) is a South Korean boy group under JYP Entertainment. The group consists of 8 members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, and I.N. The group was created through the survival program with the same name, Stray Kids. As of February 10th, 2022, they are also signed under Republic Records."
+        },
+        {
+            "id": 5,
+            "name": "BLACKPINK",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/08/blackpink_pink_venom_concept_all_group.jpg",
+            "debut_date": "August 8th, 2016",
+            "fandom_name": "BLINK",
+            "youtube": "Blackpink",
+            "instagram": "blackpinkofficial",
+            "twitter": "ygofficialblink / BLACKPINK",
+            "tiktok": "-",
+            "info": "BLACKPINK (블랙핑크) consists of 4 members: Jisoo, Jennie, Rosé, and Lisa. The band debuted with their first single album “Square One” under YG Entertainment. On October 23, 2018, BLACKPINK has officially signed with the U.S. label Interscope Records."
+        },
+        {
+            "id": 6,
+            "name": "MONSTA X",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_1_all_group.jpg",
+            "debut_date": "May 14, 2015",
+            "fandom_name": "MONBEBE (몬베베)",
+            "youtube": "MONSTA X",
+            "instagram": "official_monsta_x",
+            "twitter": "officialmonstax ",
+            "tiktok": "@monsta_x_514",
+            "info": "MONSTA X (몬스타엑스) consists of 6 members: Shownu, Minhyuk, Kihyun, Hyungwon, Joohoney, and I.M. The group was created through the survival program NO.MERCY. MONSTA X debuted under Starship Entertainment. The group is also under the US label Maverick Agency as of February 26th 2019. On October 31, 2019 following the controversies, Wonho announced his departure from the group."
+        },
+        {
+            "id": 7,
+            "name": "IVE",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_all_group_2.jpg",
+            "debut_date": "December 1st, 2021",
+            "fandom_name": "DIVE",
+            "youtube": "IVE",
+            "instagram": "IVEstarship",
+            "twitter": "IVE_twt (Members) / IVEstarship (Company)",
+            "tiktok": "IVE.official",
+            "info": "IVE (아이브) is a 6-member South Korean girl group under STARSHIP Entertainment. The group consists of An Yujin, Gaeul, Rei, Jang Wonyoung, Liz, and Leeseo. They debuted with the single album ‘Eleven‘. The group made their Japanese debut on October 19th, 2022. They made their English debut on January 19th, 2024 with the single, ‘All Night (feat. Saweetie)‘, a remake of Icona Pop’s ‘All Night‘."
+        },
+        {
+            "id": 8,
+            "name": "EXO",
+            "img_url": "https://6.soompi.io/wp-content/uploads/image/20230710173323_EXO-2.jpg?s=900x600&e=t",
+            "debut_date": "April 8, 2012",
+            "fandom_name": "EXO-L",
+            "youtube": "EXO Channel",
+            "instagram": "@weareone.exo",
+            "twitter": "@weareoneEXO",
+            "tiktok": "-",
+            "info": "EXO (엑소) is a South Korean boy group that currently consists of: Suho, Xiumin, Baekhyun, Chen, Chanyeol, D.O., Kai, and Sehun. On April 8, 2022 Lay announced his departure from SM Ent., no details regarding his possible future activities as an EXO member have been given. Former members: Kris, Tao and Luhan. EXO debuted under SM Entertainment."
+        },
+        {
+            "id": 9,
+            "name": "TWICE",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_concept_teaser_all_group_2.jpg",
+            "debut_date": "October 20, 2015",
+            "fandom_name": "ONCE",
+            "youtube": "TWICE",
+            "instagram": "twicetagram",
+            "twitter": "JYPETWICE",
+            "tiktok": "@twice_tiktok_official",
+            "info": "TWICE (트와이스) is a South Korean girl group consisting of 9 members: Jihyo, Nayeon, Jeongyeon, Momo, Sana, Mina, Dahyun, Chaeyoung, and Tzuyu. The group was formed through the survival show Sixteen and debuted with the EP, “The Story Begins“, under JYP Entertainment. As of February 2020, JYPE is partnering with Republic Records to help promote TWICE worldwide."
         }
     ],
     "idols": [
@@ -277,6 +349,621 @@
             "instagram": "@hyein_grace",
             "facts": "– Hyein was born in Incheon, South Korea.– She has an older sister (born in 2003) and an older brother (born in 2005).– She can speak Korean and English.– Hyein’s favorite fruit is strawberry.– Hyein appeared on Pocket TV as part of the Play With Me Club.– Friends with CLASS:y’s Riwon– Hyein is a huge fan of girl group EVERGLOW.– Hyein loves Harry Potter, and has a bunch of its books in English and Korean (she has like over 15 books), and also has Harry Potter’s wand.– Hyein attended Wannabe Academy.– She is friends with BABYMONSTER‘s Rora.– She was part of the Kids Planet’s kids girl group USSO.GIRL under the stage name U.jeong.– On December 30, 2022, Hyein was announced to be chosen as the newest brand ambassador for Louis Vuitton. She is the youngest to ever do so, at age 14.",
             "group_id": 3
+        },
+        {
+            "id": 17,
+            "stage_name": "Bang Chan (방찬)",
+            "birth_name": "Christopher Bahng",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_bang_chan.jpg",
+            "birthday": "October 3rd, 1997",
+            "height": "171 cm (5’7’’)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "ENFJ-T",
+            "nationality": "Korean",
+            "instagram": "gnabnahc",
+            "facts": "– Born in South Korea, but he moved to Sydney, Australia when he was very young.– He has one younger sister (Hannah) and one younger brother (Lucas).– His nicknames given by his members: Kangaroo and Koala.– He speaks English, Korean, Japanese, and a bit of Chinese.– He can play the guitar and the piano.– His favorite season is autumn. (Summer Vacation VLive)– He helps his members with producing songs.– Bang Chan is close friends with GOT7‘s BamBam and Yugyeom and ENHYPEN‘s Jake.– He used to train with GOT7, TWICE, and DAY6.– His role models are Drake, Cristiano Ronaldo, and his dad.– He has a dog named Berry.– If he wasn’t in Stray Kids, he would be a kangaroo, actor or athlete. (VLive 180424)– His motto: “Just enjoy~”",
+            "group_id": 4
+        },
+        {
+            "id": 18,
+            "stage_name": "Lee Know (리노)",
+            "birth_name": "Lee Min Ho (이민호)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_lee_know.jpg",
+            "birthday": "October 3rd, 1997",
+            "height": "172 cm (5’7.5″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "ISFP",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– Born in Gimpo, South Korea.– He is an only child.– Lee Know is ambidextrous.– He has a unique and fun personality, a 4D personality.– His favorite color is mint. (Ceci Korea)– Lee Know’s favorite song is 2PM‘s “10 out of 10“.– His role model is 2PM‘s Taecyeon.– His frequent habit is cracking his fingers.– He has a fear of heights. (The 9th Ep 2)– Lee Know really likes to read and his favorite author is currently Keigo Higashino.– He has 3 cats named Sooni, Doongi and Dori.– If he wasn’t in Stray Kids, he would be a dancer. (VLive 180424)– His motto: “Let’s eat well and live well.”",
+            "group_id": 4
+        },
+        {
+            "id": 19,
+            "stage_name": "Changbin (창빈)",
+            "birth_name": "Seo Chang Bin (서창빈)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_changbin.jpg",
+            "birthday": "August 11th, 1999",
+            "height": "167 cm (5’6″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "ESFP",
+            "nationality": "Korean",
+            "instagram": "jutdwae",
+            "facts": "– He was born in Yongin, South Korea.– He has an older sister.– His nickname given by his members: Mogi (mosquito), Jingjingie (whiny), Teokjaengie (chin) and Binnie.– His specialties are writing lyrics and rap.– He helps with producing songs.– His favorite season is autumn. (Summer Vacation VLive)– He is a fan of Joo Woojae.– Changbin’s role models are BIGBANG‘s G-Dragon, Kendrick Lamar, as well as his mother and father.– He can’t sleep without his Munchlax plush toy, which he calls Gyu.– If he wasn’t in Stray Kids, he would be a producer, writer or maybe tattoo master. (vLive 180424)– He is currently starring in ad campaigns for Samsung Korea.– He has also composed a song for Samsung, ‘Fly High‘ which will be released in August 2023.– His motto: “Let’s live with a positive mind, enjoy the life.”",
+            "group_id": 4
+        },
+        {
+            "id": 20,
+            "stage_name": "Hyunjin (현진)",
+            "birth_name": "Hwang Hyun Jin (황현진)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_hyunjin.jpg",
+            "birthday": "March 20th, 2000",
+            "height": "179 cm (5’10.5″)",
+            "weight": "-",
+            "blood_type": "B",
+            "mbti": "ESTP",
+            "nationality": "Korean",
+            "instagram": "hynjinnnn",
+            "facts": "– He was born in Seoul, South Korea.– He is an only child.– Hyunjin’s English name is Sam Hwang.– He can speak basic English.– His nicknames are Jinnie and The Prince.– Hobbies: dancing, reading books, painting, and playing sports.– Hyunjin’s favourite colours are black and white. (vLive)– His role model is GOT7‘s Jinyoung.– Hyunjin is allergic to cat fur. (vLive)– If he wasn’t in Stray Kids, he would be an interior designer. (vLive 180424)– He talks in his sleep and is the hardest to wake up.– He has lived in U.S for a holiday. (“Return of Superman”)– On July 20, 2023, it was revealed that Hyunjin is the newest Korean Global Brand Ambassador for Versace. (Versace 2023)– His motto: “Let’s try even when you regret it later.”",
+            "group_id": 4
+        },
+        {
+            "id": 21,
+            "stage_name": "Han (한)",
+            "birth_name": "Han Ji Sung (한지성)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_han.jpg",
+            "birthday": "September 14th, 2000",
+            "height": "169 cm (5’6.5″)",
+            "weight": "-",
+            "blood_type": "B",
+            "mbti": "ISTP",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– Born in Incheon, South Korea.– He has one older brother.– His nickname given by his members: Squirrel.– He speaks English.– His hobby is to eat cheesecake while watching a movie.– Han’s favorite color is red.– His special ability is a voice impression of Doraemon.– Han has trypophobia (a fear of clusters of small holes).– His role model is Block B‘s Zico.– He is a fan of Joo Woojae.– If he wasn’t in Stray Kids, he would be a producer. (vLive 180424)– His motto: “This too, shall pass.”",
+            "group_id": 4
+        },
+        {
+            "id": 22,
+            "stage_name": "Felix (필릭스)",
+            "birth_name": "Felix Lee (이 필릭스)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_felix.jpg",
+            "birthday": "September 15th, 2000",
+            "height": "171 cm (5’7″)",
+            "weight": "-",
+            "blood_type": "AB",
+            "mbti": "ESFJ",
+            "nationality": "Korean",
+            "instagram": "yong.lixx",
+            "facts": "– His parents are Korean, but he was born in Seven Hills, a suburb of Sydney, Australia.– He has an older sister (Rachel/Jisue Lee) and a younger sister (Olivia Lee).– His nicknames given his members: Bbijikseu, Bbajikseu, Bbujikseu, and Jikseu.– Hobbies: Listening to music, dancing, shopping (especially clothes), traveling, and beatboxing.– His favorite seasons are autumn and winter. (Summer Vacation VLive)– His favorite sport is soccer.– Felix’s favorite color is Blue.– He’s close friends with ENHYPEN‘s Jake.– His role model is BIGBANG‘s G-Dragon.– Felix’ favorite color is black and his favorite number is 7. (vLive)– If he wasn’t in Stray Kids, he would be a songwriter. (vLive 180424)– On August 22, 2023, it was revealed that Felix is the newest House Ambassador for Louis Vuitton. (Louis Vuitton 2023)– Felix made his runway debut in March 2024 at the Paris Louis Vuitton FW24 show.– His motto: “Just a little braver~”",
+            "group_id": 4
+        },
+        {
+            "id": 23,
+            "stage_name": "Seungmin (승민)",
+            "birth_name": "Kim Seung Min (김승민)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_seungmin.jpg",
+            "birthday": "September 22nd, 2000",
+            "height": "178 cm (5’10″)",
+            "weight": "56 kg (123 lbs)",
+            "blood_type": "A",
+            "mbti": "ISFJ",
+            "nationality": "Korean",
+            "instagram": "miniverse.___",
+            "facts": "– Seungmin was born in Seoul, South Korea.– He has one older sister.– He graduated from Cheongdam High School. (SK-Talk Time 180422)– His nickname given by his members: Snail; his nickname given by fans: Sunshine.– He thinks his most charming point is his chubby left cheek.– His favorite season is autumn. (Summer Vacation vLive)– His favorite food is eggs.– He is the cleanest member.– His role models are DAY6, Kim Dong-ryul, and Sandeul from B1A4.– If he wasn’t in Stray Kids, he would be a photographer or a prosecutor. (vLive 180424)– He is friends with AB6IX‘ Daehwi since high school.– His motto: “Today you spent in vain is the day as tomorrow someone who passed away really wants to live through.”",
+            "group_id": 4
+        },
+        {
+            "id": 24,
+            "stage_name": "I.N (아이엔)",
+            "birth_name": "Yang Jeong In (양정인)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/10/stray_kids_maxident_concept_in.jpg",
+            "birthday": "February 8th, 2001",
+            "height": "172 cm (5’7.5″)",
+            "weight": "-",
+            "blood_type": "A",
+            "mbti": "INFJ",
+            "nationality": "Korean",
+            "instagram": "i.2.n.8",
+            "facts": "– He was born in Busan, South Korea.– He has an older brother and a younger brother who is 12 years old, as of 2018.– His nicknames given by his members: Desert Fox, Our Maknae, Spoon Worm Yang, Fiona and Bean Worm.– His special ability is singing trot.– I.N is a Catholic.– He likes all foods besides beans.– His favorite color is Hot Pink.– His role model is Bruno Mars.– If he wasn’t in Stray Kids, he would be a singer, or an elementary school teacher since he likes kids. (vLive 180424)",
+            "group_id": 4
+        },
+        {
+            "id": 25,
+            "stage_name": "Jisoo (지수)",
+            "birth_name": "Kim Jisoo (김지수)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/09/Blackpink_Born_Pink_Shut_Down_teaser_Jisoo.jpg",
+            "birthday": "January 3, 1995",
+            "height": "162 cm (5 ft 3¾ in)",
+            "weight": "44 kg (97 lbs)",
+            "blood_type": "A",
+            "mbti": "ISTP",
+            "nationality": "Korean",
+            "instagram": "sooyaaa__",
+            "facts": "– She was born in Gunpo, a city in the province of Gyeonggi, South Korea.– Jisoo has an older brother (named Kim Junghoon) and an older sister.– She trained for 5 years (2011 July).– Jisoo was the third member to be revealed.– She can speak Korean, Japanese and basic Chinese.– According to Jennie (V Live App), Jisoo doesn’t speak English (because she’s embarrassed to do it) but she can understand it very well.– Jisoo is called “Man Heart’s Destroyer” and “Boy Crush”.– Jisoo’s Chinese zodiac sign is Dog.– Jisoo can play the drums and the piano.– She has a 4D personality.– Her shoe size is 235mm.-Her fans often call her the unofficial sub rapper of BLACKPINK, after her rap in Pretty Savage(2020).– According to Jennie, Jisoo is the mood maker of the group.– Her ‘My Sweet Home’ Merch character is a bunny, named SOOYA.– Jisoo has a dog named Dalgom.– Her favorite number is 4.– Jisoo loves the color purple.– Jisoo really likes Pikachu (she has a lot of Pikachu merchandise).– Jisoo is a white belt in taekwondo.– Regarding food, she can eat almost everything (except organs), but she especially likes rice.– She is close friends with Twice’s Nayeon (since trainee days) and with Red Velvet’s Seulgi.– Jisoo was an Inkigayo MC (starting from Feb 5 2017 to Feb 3 2018).– She had a cameo appearance on KBS’s ‘The Producers’.– She acted in HISUHYUN’s ‘I’m Different’ MV, EPIK HIGH – ‘스포일러(Spoiler) + 헤픈엔딩(Happen Ending)’ MV.– She appeared in different CFs such as Samsonite Red CF with Lee Minho (2015), Nikon 1 J5 CF (2015), Smart Uniform CF with iKON (2015, 2016), Angel Stone CF (2015),  LG Stylus2 CF (2016).– Jisoo ranked 78th on TC Candler “The 100 Most Beautiful Faces of 2019”.– Jisoo ranked 26th on TC Candler’s “The 100 Most Beautiful Faces of 2021”.– Jisoo, Rose, and Lisa all prefer cute guys over sexy ones. (Blackpink Live Radio Interview)– Jisoo said if she was a guy, she would date Rose because she would sing her songs. (AIIYL v-live)– Jisoo had a cameo appearance in Arthdal Chronicles.– In August 2020, she was confirmed as a leading actress for drama  Snowdrop.– Jisoo debuted as a soloist on March 31st, 2023 with single album “ME”.– On August 3, 2023, it was reported that she’s dating actor, Ahn Bohyun, both of their agencies confirmed the relationship.– On October 24, 2023, it was revealed that the couple has since broken up due to their busy schedules.– Jisoo’s ideal type: Someone who is really into her or who smiles pretty.",
+            "group_id": 5
+        },
+        {
+            "id": 26,
+            "stage_name": "Jennie (제니)",
+            "birth_name": "Kim Jennie (김제니)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/09/Blackpink_Born_Pink_Shut_Down_teaser_Jennie.jpg",
+            "birthday": "January 16, 1996",
+            "height": "163 cm (5’4″)",
+            "weight": "45 kg (99 lbs)",
+            "blood_type": "B",
+            "mbti": "INFP",
+            "nationality": "Korean",
+            "instagram": "jennierubyjane / lesyeuxdenini",
+            "facts": "– She was born in Cheongdam-dong (Gangnam District) Seoul, South Korea.– Jennie lived in Auckland, New Zealand for 5 years. (“Knowing Brother”)– She studied in New Zealand at ACG Parnell College.– She doesn’t have any siblings.– She trained for 5 years 11 months (2010 August).– Jennie was the first member to be revealed (publicly).– Jennie can play acoustic and electric guitar.– Her nicknames are “Human Gucci” (because she wears expensive clothes), “Human Chanel” (because she is a brand ambassador), Jendeukie and NiNi.– She has 2 puppies, Kai and Kuma.– She is fluent in Korean, Japanese, and English.– Jennie’s Chinese zodiac sign is Pig.– Her ‘My Sweet Home’ Merch character is a bear, named GOMDEUKI.– Jennie can play the piano and the flute.– She has her driving license.– Her shoe size is 235mm.– Her favorite foods are anything that is Korean food.– Her favorite number is 1.– She is close friends with Nayeon (Twice), Irene (Red Velvet), Yerin (GFriend), Chahee (Melody Day) and Lime (Hello Venus).– She acted in G-Dragon’s ‘That XX’ MV.– She was featured in BIG BANG G-Dragon’s ‘Black’, Lee Hi’s ‘Special’ and BIG BANG Seungri’s ‘GG Be’.– She acted is several CFs for Sprite or CASS beer.– She is a regular member of the show “Village Survival, the Eight”.– Jennie prefers sexy guys over cute ones. (Blackpink Live Radio Interview)– Jennie said if she was a guy, she would date Jisoo because she makes her laugh. (AIIYL v-live)– On November 12. 2018, Jennie debuted as a soloist with the song “SOLO“.– Jennie is ranked 13th on TC Candler “The 100 Most Beautiful Faces of 2018”.– Jennie ranked 19th on TC Candler “The 100 Most Beautiful Faces of 2019”.– Jennie ranked 30th on TC Candler’s “The 100 Most Beautiful Faces of 2021”.– On January 1, 2019 it was revealed that Jennie and EXO‘s Kai are dating.– On January 25, 2019 SM Entertainment confirmed that Jennie and Kai broke up,  in order to focus on their personal careers.– On February 24, 2021, Dispatch revealed that G-Dragon and Jennie have been dating for around a year. YG Ent. refused to comment on the matter.– Jennie’s ideal type: Someone who is a hard worker.",
+            "group_id": 5
+        },
+        {
+            "id": 27,
+            "stage_name": "Rosé (로제)",
+            "birth_name": "Roseanne Park",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/09/Blackpink_Born_Pink_Shut_Down_teaser_Rose.jpg",
+            "birthday": "February 11, 1997",
+            "height": "168.7 cm (5’6”)",
+            "weight": "44 kg (97 lbs)",
+            "blood_type": "B",
+            "mbti": "ENFP",
+            "nationality": "Korean",
+            "instagram": "roses_are_rosie",
+            "facts": "– She was born in Gunpo, a city in the province of Gyeonggi, South Korea.– Jisoo has an older brother (named Kim Junghoon) and an older sister.– She trained for 5 years (2011 July).– Jisoo was the third member to be revealed.– She can speak Korean, Japanese and basic Chinese.– According to Jennie (V Live App), Jisoo doesn’t speak English (because she’s embarrassed to do it) but she can understand it very well.– Jisoo is called “Man Heart’s Destroyer” and “Boy Crush”.– Jisoo’s Chinese zodiac sign is Dog.– Jisoo can play the drums and the piano.– She has a 4D personality.– Her shoe size is 235mm.-Her fans often call her the unofficial sub rapper of BLACKPINK, after her rap in Pretty Savage(2020).– According to Jennie, Jisoo is the mood maker of the group.– Her ‘My Sweet Home’ Merch character is a bunny, named SOOYA.– Jisoo has a dog named Dalgom.– Her favorite number is 4.– Jisoo loves the color purple.– Jisoo really likes Pikachu (she has a lot of Pikachu merchandise).– Jisoo is a white belt in taekwondo.– Regarding food, she can eat almost everything (except organs), but she especially likes rice.– She is close friends with Twice’s Nayeon (since trainee days) and with Red Velvet’s Seulgi.– Jisoo was an Inkigayo MC (starting from Feb 5 2017 to Feb 3 2018).– She had a cameo appearance on KBS’s ‘The Producers’.– She acted in HISUHYUN’s ‘I’m Different’ MV, EPIK HIGH – ‘스포일러(Spoiler) + 헤픈엔딩(Happen Ending)’ MV.– She appeared in different CFs such as Samsonite Red CF with Lee Minho (2015), Nikon 1 J5 CF (2015), Smart Uniform CF with iKON (2015, 2016), Angel Stone CF (2015),  LG Stylus2 CF (2016).– Jisoo ranked 78th on TC Candler “The 100 Most Beautiful Faces of 2019”.– Jisoo ranked 26th on TC Candler’s “The 100 Most Beautiful Faces of 2021”.– Jisoo, Rose, and Lisa all prefer cute guys over sexy ones. (Blackpink Live Radio Interview)– Jisoo said if she was a guy, she would date Rose because she would sing her songs. (AIIYL v-live)– Jisoo had a cameo appearance in Arthdal Chronicles.– In August 2020, she was confirmed as a leading actress for drama  Snowdrop.– Jisoo debuted as a soloist on March 31st, 2023 with single album “ME”.– On August 3, 2023, it was reported that she’s dating actor, Ahn Bohyun, both of their agencies confirmed the relationship.– On October 24, 2023, it was revealed that the couple has since broken up due to their busy schedules.– Jisoo’s ideal type: Someone who is really into her or who smiles pretty.",
+            "group_id": 5
+        },
+        {
+            "id": 28,
+            "stage_name": "Lisa (리사)",
+            "birth_name": "Lalisa Manobal (ลลิสา มโนบาล)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2022/09/Blackpink_Born_Pink_Shut_Down_teaser_Lisa.jpg",
+            "birthday": "March 27, 1997",
+            "height": "166.5 cm (5’5.6″)",
+            "weight": "44.7 kg (98.5 lbs)",
+            "blood_type": "O",
+            "mbti": "ISFP",
+            "nationality": "Thai",
+            "instagram": "lalalalisa_m",
+            "facts": "– Lisa was born in Buriram Province, and moved in Bangkok, Thailand at age three.– Lisa is an only child, according to SBS Cultwo Show (July 6 2017).– Lisa can play guitar and piano.– Lisa’s stepfather, who’s a top certified Swiss chef in Thailand, is Marco Brüschweiler.– She was born with the name Pranpriya, and her friends called her by the nickname Pockpack. It was changed to Lalisa after a fortune telling. (Lalisa means the one who is praised.)– She was the only person accepted to YG in the YG Audition in Thailand 2010.– She’s childhood friends with GOT7′s BamBam as they were both part of the dance crew We Zaa Cool.– She trained for 5 years 3 months (2011 April).– She became a trainee during middle school and lived in Korea since.– Lisa was the second member to be revealed.– Her ‘My Sweet Home’ Merch character is a Chick, named PPEU.– She can speak Korean, English, Japanese, Thai and basic Chinese.– Her Chinese zodiac sign is Ox.– Lisa is referred to as the “Thailand Princess” in her birthplace.– Members said she’s really playful and mischievous off stage.– Her favorite food are French fries.– Her favorite number is 27 because it her birthday.– Lisa loves make-up a lot (revealed on Get It Beauty).– Lisa plays Ukulele.– Her Korean favorite dish is Gamjatang (spicy pork spine soup).– Lisa’s friends with GOT7’s BamBam, CLC’s Sorn, NCT’s Ten and (G)I-DLE’s Minnie.– She appeared in BIG BANG Taeyang’s ‘Ringa Linga’ MV.– She acted in NONA9ON CF (2014, 2015, 2016 and 2017)– Lisa is one of the cast members in the show “Real Men 300”.– Lisa, Jisoo, and Rose, all prefer cute guys over sexy ones. (Blackpink Live Radio Interview)– Lisa said if she was a guy, she would date Jennie because she’s sexy. (AIIYL v-live)– Lisa is ranked 9th on TC Candler “The 100 Most Beautiful Faces of 2018”.– Lisa ranked 3rd on TC Candler “The 100 Most Beautiful Faces of 2019”.– Lisa ranked 2nd on TC Candler “The 100 Most Beautiful Faces of 2020”.– Lisa ranked 1st on TC Candler “The 100 Most Beautiful Faces of 2021”.– Lisa was chosen as the dance mentor of Chinese show Youth With You 2 & 3.– She’s debuted as a soloist on September 10, 2021 with first single album “Lalisa”.– Lisa’s ideal type: She said she likes older guys, who can take good care of her. Also she likes kindhearted men, who can cook and who have a lifestyle that fits hers.",
+            "group_id": 5
+        },
+        {
+            "id": 29,
+            "stage_name": "Shownu (셔누)",
+            "birth_name": "Sohn Hyun Woo (손현우)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_Shownu_1.jpg",
+            "birthday": "June 18th, 1992",
+            "height": "181 cm (5’11”)",
+            "weight": "77 kg (169 lbs)",
+            "blood_type": "O",
+            "mbti": "ISTJ",
+            "nationality": "Korean",
+            "instagram": "shownuayo",
+            "facts": "– He was born in Changdong, Donbonggu, Seoul, South Korea.– He doesn’t have any siblings.– He was a former JYP Entertainment trainee with GOT7, but left due to training absences.– He was a JYP trainee for about 2 years.– He is still friends with GOT7.– Stray Kids‘ Bang Chan revealed that when they were trainees, he and Shownu shared a dorm. (Finding SKZ)– He used to be a member of the boy group NUBOYZ.– Shownu’s stage name means I want to “show you new things”. He was in NUBOYZ and wanted to give fans a SHOW = SHOW + NU.– He likes meat and exercise.– His favorite color is black.– He participates in creating most of MONSTA X’s choreographies.– In 2016 Shownu was a contestant on the dance show “Hit the Stage”.– His representative animal from “Safari in Monbebe World” is a Bear.– Hobbies: listening to music.– On July 22, 2021, Shownu enlisted in the military. On April 21, 2023, he was discharged.– On June 9, 2022, it was announced that he had renewed his contract with Starship Entertainment.– In 2024, Shownu will be making his musical debut.",
+            "group_id": 6
+        },
+        {
+            "id": 30,
+            "stage_name": "Minhyuk (민혁)",
+            "birth_name": "Lee Min Hyuk (이민혁)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_Minhyuk_1.jpg",
+            "birthday": "November 3rd, 1993",
+            "height": "179 cm (5’10.5″)",
+            "weight": "65 kg (143 lbs)",
+            "blood_type": "A",
+            "mbti": "ENTP-T",
+            "nationality": "Korean",
+            "instagram": "go5rae",
+            "facts": "– He was born in Gwangju, South Korea.– Minhyuk has a younger brother.– He likes cola, sweet potato, and pizza.– He’s the mood-maker of the group, lightening up the atmosphere with his jokes and funny personality.– Minhyuk’s most confident in his lips.– His favorite color is red.– He would like to learn acoustic guitar because he thinks it would go well with his husky voice.– His representative animal from “Safari in Monbebe World” is a Puppy / Dog.– On April 4, 2023, Minhyuk enlisted in the military and will be discharged on October 3, 2024.",
+            "group_id": 6
+        },
+        {
+            "id": 31,
+            "stage_name": "Kihyun (기현)",
+            "birth_name": "Yoo Ki Hyun (유기현)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_Kihyun_1.jpg",
+            "birthday": "November 22nd, 1993",
+            "height": "174.8 cm (5’9″)",
+            "weight": "62 kg (137 lbs)",
+            "blood_type": "B",
+            "mbti": "ENTP",
+            "nationality": "Korean",
+            "instagram": "yookihhh",
+            "facts": "– Kihyun was born in Goyang, South Korea.– He has an older brother (2 years older) that lives in Japan. (vLive)– He’s the best vocalist in the group.– Kihyun graduated from DIMA, Dong’Ah Institute of Media and Arts.– He likes composing songs and writing lyrics.– Kihyun can play the piano.– His favorite color is blue.– He starred in “High-end Crush” (2015)– He’s especially good at making ramen.– Hobbies: Dancing and hanging out with friends.– His representative animal from “Safari in Monbebe World” is a Hamster.– Kihyun made his solo debut on March 15, 2022, with his solo single album “VOYAGER”.– On June 9, 2022, it was announced that he had renewed his contract with Starship Entertainment.– He enlisted in the military on August 22, 2023 and will be discharged on February 21, 2025.",
+            "group_id": 6
+        },
+        {
+            "id": 32,
+            "stage_name": "Hyungwon (형원)",
+            "birth_name": "Chae Hyung Won (채형원)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_Hyungwon_1.jpg",
+            "birthday": "January 15th, 1994",
+            "height": "182.4 cm (6’0″)",
+            "weight": "60 kg (132 lbs)",
+            "blood_type": "O",
+            "mbti": "INFP",
+            "nationality": "Korean",
+            "instagram": "coenffl",
+            "facts": "– He was born in Gwangju, South Korea.– Hyungwon has a younger brother.– He likes pork BBQ, sashimi, and salted fried giant shrimp.– He is known for his thick lips.– He’s the one who sleeps the most.– Before joining MONSTA X, Hyungwon was a popular model. He participated in lots of fashion shows.– He loves traveling. His parents own a travel agency, where he used to work when he was younger.– Hyungwon is a terrible cook, according to his bandmates.– Hobbies: Modeling and shopping.– His favorite color is black.– His representative animal from “Safari in Monbebe World” is a Turtle.– Hyungwon is also a DJ and he is known as DJ H.One.– On June 9, 2022, it was announced that he had renewed his contract with Starship Entertainment.– He enlisted in the military on November 14, 2023 and will be discharged on May 13, 2025.",
+            "group_id": 6
+        },
+        {
+            "id": 33,
+            "stage_name": "Joohoney",
+            "birth_name": "Lee Ho Joon (이호준)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_Joohoney_1.jpg",
+            "birthday": "October 6th, 1994",
+            "height": "179.2 cm (5’10.5″)",
+            "weight": "67 kg (148 lbs)",
+            "blood_type": "O",
+            "mbti": "ENFJ",
+            "nationality": "Korean",
+            "instagram": "joohoneywalker",
+            "facts": "– He was born in Seoul but he grew up in Daegu.– Joohoney has a younger brother.– He admires Michael Jackson a lot.– Joohoney was the best rapper among the trainees.– In addition to writing lyrics and song production, he also wants to take part in creating the album jacket and music video.– He used to be a member of the boy group NUBOYZ (Starship Entertainment).– Joohoney speaks Korean and English.– Hobbies: Playing video games, going out with friends, watching movies.– His representative animal from “Safari in Monbebe World” is a Bee.– Joohoney is friends with ASTRO‘s Moonbin, GOT7‘s Jackson, and EXO‘s Chanyeol.– On April 28, 2015, he released his 1st mixtape, “JUNG JI“.– Joohoney made his official solo debut with the mini album, “LIGHTS” on May 22, 2023.– He enlisted in the military on July 24, 2023 and will be discharged on January 23, 2025. He is an assistant instructor in the army.",
+            "group_id": 6
+        },
+        {
+            "id": 34,
+            "stage_name": "I.M (아이엠)",
+            "birth_name": "Im Chang Kyun (임창균)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2020/10/Monsta_X_Fatal_Love_Teaser_4_IM_1.jpg",
+            "birthday": "January 26th, 1996",
+            "height": "175 cm (5’9″)",
+            "weight": "63 kg (139 lbs)",
+            "blood_type": "O",
+            "mbti": "ISFP",
+            "nationality": "Korean",
+            "instagram": "imnameim",
+            "facts": "– He was born in Gwangju, South Korea.– He has an older brother.– I.M lived abroad a lot during his childhood, because his father was a scientist and his work demanded of him to travel around the world.– He lived 3 years in Boston and 4 years in Israel.– His English name is Daniel/Danny (he used this name while he lived in the US).– His role model is his father.– He once wanted to pursue science and education.– I.M can speak English fluently.– Hobbies: Writing songs, and hanging out with his group mates.– He used to be part of the group Nu’bility.– His representative animal from “Safari in Monbebe World” is a Wolf.– He made his solo debut with the EP album, “DUALITY” on February 19, 2021.– On August 8, 2022 it was announced that I.M left the agency, but would continue group activities.– On November 15, 2022 it was announced that he has signed with Sony Music Korea.",
+            "group_id": 6
+        },
+        {
+            "id": 35,
+            "stage_name": "An Yujin (유진)",
+            "birth_name": "An Yu Jin (안유진)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Yujin_3.jpg",
+            "birthday": "September 1st, 2003",
+            "height": "173 cm (5’8″)",
+            "weight": "48 kg (105 lbs)",
+            "blood_type": "A",
+            "mbti": "ISTP",
+            "nationality": "Korean",
+            "instagram": "_yujin_an",
+            "facts": "– Yujin was the 1st member to be revealed.– Her MINIVE character is a puppy, named GANGANJI.– She was born in Sannam-dong, North Chungcheong, S. Korea.– Yujin has an older sister (born in 1999).– She attended Cheongju Sannam Elementary School, Daejeon Samcheon Elementary School, Gwanak Middle School (graduated) & Seoul Performing Arts High School (Dramatic Drama/Dropped Out).– She is a former member of IZ*ONE.– Yujin participated in Produce 48, ranking #5, serving her a place in the final line-up.– She was an Inkigayo MC along with RIIZE‘s Sungchan and TREASURE‘s Jihoonfrom March 7, 2021, to March 27, 2022.– Yujin is very athletic.– Her shoe size is 250 mm.– If she was a fan of IVE her bias would be Rei.– She has appeared in various MV such as Jeong Sewoon’s ‘Just U’, Soyou and Baekhyun’s ‘Rain’, Ailee and Mad Clown’s ‘Thirst’, and Yoo Seungwoo and Sandeul ‘Oppa’.– She is the current advertising model for MEGA PASS.– Yujin studies English often and is good at speaking it.– She speaks Korean, Basic Japanese, and Basic English.– She is the youngest contestant to ever appear on The Masked Singer.– Her talent is singing in reverb.– She calls the members “Babies”.– When asked which member she would take on vacation, Yujin chose Liz because “We both need time alone at home after we’ve been out.”",
+            "group_id": 7
+        },
+        {
+            "id": 36,
+            "stage_name": "Gaeul (가을)",
+            "birth_name": "Kim Ga Eul (김가을)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Gaeul_3.jpg",
+            "birthday": "September 24th, 2002",
+            "height": "164 cm (5’5″)",
+            "weight": "46 kg (101 lbs)",
+            "blood_type": "B",
+            "mbti": "ISTJ",
+            "nationality": "Korean",
+            "instagram": "fallingin__fall",
+            "facts": "– Gaeul was the 2nd member to be revealed.– Her MINIVE character is a squirrel, named DAL-E.– She was born in Bupyeong-gu, Incheon, S. Korea.– Gaeul has an older brother (born in 2000).– She attended Incheon Buwon Elementary School (graduated) Bupyeongseo Girls’ Middle School (graduated) & Bupyeong Girls’ High School (graduated).– Gaeul has trained since 2017. She trained for 4 years.– Her name means autumn, however, her favorite season is spring.– Her nickname is ‘sloth’.– Gaeul considers herself a curious person.– She likes reading mystery novels and watching horror movies.– Gaeul speaks Korean, Basic Japanese, and Basic English.– She has a cute style.– Her favorite color is pink.– She was in a dance club in middle school.– If she was a fan of IVE she would bias all of the members.– Gaeul was casted by JYP.– She is best friends with former HINAPIA member Bada.– Gaeul is the oldest member of IVE.– When asked which member she would take on vacation, buch schreiben lassen Gaeul chose Wonyoung because she likes to plan ahead, and Gaeul wants Wonyoung to take her to good restaurants.– In the dorm, she often takes hot baths in the master bedroom.",
+            "group_id": 7
+        },
+        {
+            "id": 37,
+            "stage_name": "Rei (레이)",
+            "birth_name": "Naoi Rei (直井れい)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Rei_3.jpg",
+            "birthday": "February 3rd, 2004",
+            "height": "170 cm (5’7″)",
+            "weight": "-",
+            "blood_type": "A",
+            "mbti": "INFJ",
+            "nationality": "Japanese",
+            "instagram": "reinyourheart",
+            "facts": "– Rei was the 5th member to be revealed.– Her MINIVE character is a chick, named NAORI.– She was born in Aichi Prefecture, Nagoya, Japan.– Rei has an older sister (born in 2002).– She is a fan of Red Velvet and her bias is Joy.– Rei had never cut her hair until she was announced to debut.– Her favorite colors are white, black, and pastel shades.– Her name means lovely and graceful.– Rei is really good at drawing.– She likes decorating things.– Rei likes collecting pretty items such as roses and butterflies.– She speaks Korean and Japanese.– If she were a fan of IVE her bias would be Liz.– Her favorite item is headphones that her grandfather gifted her.– Liz‘ nickname for Rei is “Darling”.– The members gave her the name “Kim Rei” because she is very fluent in Korean.– Rei and Yujin went to the same school.– Rei and Liz shared a room and depended on each other during trainee days.– Her mom sends Japanese snacks to the dorm.– In March 2022, Rei became a muse for skin care brand Bonajour.– When asked which member she would take on vacation, Rei chose Leeseo because they are “quite immature” and Leeseo tells Rei trendy things at school.– She often takes hot baths in the master bathroom at the dorm.– Rei wants to take pictures in an amusement park in her school uniform once she turns 20.",
+            "group_id": 7
+        },
+        {
+            "id": 38,
+            "stage_name": "Jang Wonyoung (원영)",
+            "birth_name": "Jang Won Young (장원영)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Wonyoung_3.jpg",
+            "birthday": "August 31st, 2004",
+            "height": "173 cm (5’8″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "E???",
+            "nationality": "Korean",
+            "instagram": "for_everyoung10",
+            "facts": "– Wonyoung was the 3rd member to be revealed.– Her MINIVE character is a bunny, named CHERRY.– She was born in Seoul, S. Korea.– Wonyoung has an older sister named Jang Da Ah.– She is a former member of IZ*ONE.– She attended Seoul Shinyongsan Elementary School (graduated), Yonggang Middle School (withdrawal) & Seoul Performing Arts High School (Department of Practical Music/Student).– Wonyoung participated in Produce 48, ranking #1, serving her a place in the final line-up.– She is the current Music Bank MC.– Wonyoung is good at speaking English.– She speaks Korean, Basic Japanese, and English.– She can play the piano, flute and violin.– Wonyoung made an appearance in the YDPP ‘Love It Live It’ MV.– If she was a fan of IVE her bias would be Yujin.– Her favorite flavor of ice cream is Mint Chocolate Chip.– She is the global brand ambassador and muse for Innisfree.– Rei calls her “Princess” as a nickname.– Her stylist calls her “Good Girl”.– Rei chose Wonyoung as the cutest IVE member.– When asked which member she would take on vacation, Wonyoung chose Gaeul because she wants to take Gaeul to restaurants.– In January 2024, Wonyoung won a defamation lawsuit (100 million KRW) against the YouTuber, Sojang who had made videos of allegations against Wonyoung. STARSHIP Ent. went and filed a complaint in the U.S. court as a way to obtain the YouTuber’s real identity.",
+            "group_id": 7
+        },
+        {
+            "id": 39,
+            "stage_name": "Liz (리즈)",
+            "birth_name": "Kim Ji Won (김지원)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Liz_3.jpg",
+            "birthday": "November 21st, 2004",
+            "height": "171~2 cm (5’8″)",
+            "weight": "-",
+            "blood_type": "AB",
+            "mbti": "INFP",
+            "nationality": "Korean",
+            "instagram": "liz.yeyo",
+            "facts": "– Liz was the 4th member to be revealed.– Her MINIVE character is a kitten, named CHEEZ.– She was born in Jeju-do, South Korea.– Liz has a younger brother (born in 2006).– She attended Halla Elementary School (graduated), Halla Middle School (transferred), Unbuk Middle School (graduated) & Cheongdam High School (dropped out).– Liz has a shy and quiet personality.– She dropped out of school prior to her debut.– Liz had won an award for excellence in sports at her school.– She bleached her hair 2 weeks before her profile was released.– She is a cat person and has had multiple cats at her childhood home.– Liz is good at playing the piano.– She was in her middle school dance club.– Liz speaks Korean and Basic Japanese.– She has cute handwriting.– If she was a fan of IVE she would bias Wonyoung.– Liz appeared in Taeyeon’s ‘This Christmas’ MV.– Her nickname for Rei is “Darling”.– When asked which member she would take on vacation, Liz chose Yujin because they both prefer to stay at home.– She can make an ocarina sound with her hands.",
+            "group_id": 7
+        },
+        {
+            "id": 40,
+            "stage_name": "Leeseo (이서)",
+            "birth_name": "Lee Hyun Seo (이현서)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/04/ive_ive_ive_teaser_Leeseo_3.jpg",
+            "birthday": "February 21st, 2007",
+            "height": "165 cm (5’5″)",
+            "weight": "-",
+            "blood_type": "O",
+            "mbti": "ENFP",
+            "nationality": "Korean",
+            "instagram": "eeseooes",
+            "facts": "– Leeseo was the 6th and final member to be revealed.– Her MINIVE character is a tiger cub, named ERANG-E.– She was born in Seoul, South Korea. (MBC Radio FM4U Live)– Leeseo has a younger sister (born in 2011).– She was a model for SM Kids.– She has been in her school’s choir since third grade.– Leeseo speaks Korean and Basic English.– She can do aegyo well.– Leeseo is very energetic.– The phrase she says the most is “I like it!”– If she was a fan of IVE she would bias Yujin.– Leeseo was the sixth, and final member to be revealed.– Yujin chose her as the most difficult to take care of because Leeseo has many friends and doesn’t listen when her friends are around.– Rei gifted her a folder for school and an erasable pen for school.– Yujin, Gaeul, and Leeseo ride in the same car.– The members call her “Baby”.– When asked which member she would take on vacation, Leeseo chose Rei because their MBTI types are the most compatible out of all the members.",
+            "group_id": 7
+        },
+        {
+            "id": 41,
+            "stage_name": "Suho (수호)",
+            "birth_name": "Kim Jun Myeon (김준면)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Suho_1.jpg",
+            "birthday": "May 22, 1991",
+            "height": "173 cm (5’8″)",
+            "weight": "60 kg (132 lbs)",
+            "blood_type": "AB",
+            "mbti": "ENFJ-A",
+            "nationality": "Korean",
+            "instagram": "@kimjuncotton",
+            "facts": "– He lives in the Apujeong neighborhood of Seoul, South Korea.– He has an older brother, Kim Dongkyu (4 years older).– Education: Whimoon High School; Korea National University of Arts – Majoring in Acting (2009 – 2011, then he withdrew); Kyung Hee Cyber University (Majoring in Arts Department of Business Administration).– He is said to look like Siwon of SUPER JUNIOR.– Suho became an SM trainee in 2006 when he was 16.– He says out of all of the EXO members, he’s the best at public speaking.– He is very polite and considerate.– Suho speaks basic English.– He likes joking a lot, but the members say his jokes aren’t funny.– Hobbies: Cycling, acting, playing golf.– He’s really close to Sehun. They’ve known each other for 16 years (as of 2023).– He used to share a room with Sehun, but they have separate rooms now.– Suho is friends with Minho of SHINee since their college days (KBS Exciting India).– On May 14, 2020, Suho enlisted in the military. He was discharged on February 13, 2022.",
+            "group_id": 8
+        },
+        {
+            "id": 42,
+            "stage_name": "Xiumin (시우민)",
+            "birth_name": "Kim Min Seok (김민석)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Xiumin_4.jpg",
+            "birthday": "March 26, 1990",
+            "height": "172 cm (5’8″)",
+            "weight": "57 kg (125 lbs)",
+            "blood_type": "B",
+            "mbti": "ISTJ",
+            "nationality": "Korean",
+            "instagram": "@e_xiu_o",
+            "facts": "– Hometown: Guri, Gyeonggi province.– Xiumin has a little sister whose identity he worked very hard to keep a secret.– Education: Catholic Kwandong University.– He became an SM trainee in 2008.– He has a chubby face and a cute grin.– Personality: Kind, very, very clean and tidy, cute, prankster, funny.– His nicknames are Bao Zi (Little Bun), Mandoo, King of Detail.– He is a good cook.– Specialty: taekwondo, fencing, kendo, and soccer.– Though his looks make him appear as the youngest member, he is actually the oldest.– He is the neatest, strongest and cleanest member in EXO-M.– According to Chanyeol, he seems cute but he’s actually manly (Star Show 360).– In 2017 he became a regular cast of the show “It’s Dangerous Beyond The Blankets”.– He enlisted for the military on May 7, 2019. He was discharged on December 6, 2020.– On September 26, 2022 he debuted as a soloist with the mini album Brand New.",
+            "group_id": 8
+        },
+        {
+            "id": 43,
+            "stage_name": "Baekhyun (백현)",
+            "birth_name": "Byun Baek Hyun (변백현)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Baekhyun_2.jpg",
+            "birthday": "May 6, 1992",
+            "height": "174 cm (5’8.5″)",
+            "weight": "64 kg (141 lbs)",
+            "blood_type": "O",
+            "mbti": "ESTJ",
+            "nationality": "Korean",
+            "instagram": "@baekhyunee_exo",
+            "facts": "– Hometown: Bucheon, Gyeonggi Province, South Korea.– He has an older brother named Byun Baekbeom.– Education: Kyung Hee Cyber University (Culture and Arts Business Department).– He officially joined SM in 2011.– His popular nickname is “Bacon”.– Personality: he is a bright, cheerful, childlike person.– He was in a relationship with Girls’ Generation’s Taeyeon (for 14 months).– He can learn the choreography for a new song within a day (Star Show 360).– He doesn’t like going out and he prefers playing games instead, in his free time (Star Show 360).– Specialties: Hapkido, piano– Hobbies: Aikido, Piano, listening to music, watching movies, singing.– A star he’s close to is the actor Lee Joon-Gi.– He launched his own fashion brand, “Privé by BBH”, on July 1st 2018.– He is part of SuperM.– On July 10, 2019 he debuted as a solo artist, with the song “UN Village“.– He enlisted in the military on May 6, 2021. He was discharged on February 5, 2023.",
+            "group_id": 8
+        },
+        {
+            "id": 44,
+            "stage_name": "Chen (첸)",
+            "birth_name": "Kim Jong Dae (김종대)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Chen_3.jpg",
+            "birthday": "September 21, 1992",
+            "height": "172.5 cm (5’8”)",
+            "weight": "60 kg (132 lbs)",
+            "blood_type": "B",
+            "mbti": "ISTJ",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– Hometown: Siheung, Gyeonggi province.– He has an older brother.– Education: Hanyang Cyber University (Advertisement Media MBA).– He became an SM Entertainment trainee in 2011.– The thing he is best at is singing high-notes.– In 2014 he joined SM the Ballad.– Has a humorous and very playful personality.– Even though he seems quiet in some interviews, he’s actually very hyper.– Specialties: Singing, piano– His father is a singer as well.– Chen’s English name is Matteo.– He likes to joke around and prank his fellow members.– Chen speaks basic English.– He was the last member to join EXO-M.– He acted in the webdrama”EXO Next Door” in 2015.– Chen made his debut as a solo artist with “Beautiful Goodbye”.– On January 13, 2020, SM Ent. confirmed he is getting married to his pregnant non-celebrity girlfriend.– On April 29, 2020, he and his now-wife welcomed their first child together, a baby girl in Cheongdam-dong, Seoul, South Korea.– Chen enlisted on October 26, 2020. He was discharged on April 25, 2022.",
+            "group_id": 8
+        },
+        {
+            "id": 45,
+            "stage_name": "Chanyeol (찬열)",
+            "birth_name": "Park Chan Yeol (박찬열)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Chanyeol_4.jpg",
+            "birthday": "November 27, 1992",
+            "height": "186 cm (6’1″)",
+            "weight": "70 kg (154 lbs)",
+            "blood_type": "A",
+            "mbti": "ENFJ-T",
+            "nationality": "Korean",
+            "instagram": "-",
+            "facts": "– Hometown: Seoul, South Korea.– He has a sister, Park Yoo-ra, who used to be a news anchor (3 years older).– Education: Kyung Hee Cyber University (Culture and Arts Business Department)– He became an SM Entertainment trainee in 2008.– He calls himself ‘Reversal Voice’ because his baby face is contrasted by his deep, manly voice.– He is the one that designed EXO’s hexagon logo.– Specialties: Playing musical instruments (guitar, drum, bass, djembe), rap, acting.– He is always cheerful and bright.– He is a romantic person.– Chanyeol speaks basic English.– His shoe size is 290mm.– He has a habit of following rhythms with his hands.– Chanyeol confessed he cries the most among EXO members (Star Show 360).– He dreams to be in a relationship with someone who likes to cook.– Chanyeol enlisted on March 29, 2021, and later completed it on September 28, 2022.",
+            "group_id": 8
+        },
+        {
+            "id": 46,
+            "stage_name": "D.O. (디오)",
+            "birth_name": "Do Kyung Soo (도경수)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_DO_2.jpg",
+            "birthday": "January 12, 1993",
+            "height": "172 cm (5’8″)",
+            "weight": "60 kg (132 lbs)",
+            "blood_type": "A",
+            "mbti": "ENTJ",
+            "nationality": "Korean",
+            "instagram": "d.o.hkyungsoo",
+            "facts": "– Hometown: Goyang, Gyeonggi Province, South Korea.– He has an older brother, Do Seungsoo.– Education: Baekseok High School.– He was a famous ulzzang kid.– He became a SM trainee in 2010.– Personality: Quiet, acts like a mother to the other members, sentimental, considerate.– He loves cooking and mostly cooks for the members.– D.O. can speak basic English.– Specialties: Singing, beat box, acting.– D.O. has a habit of humming songs.– He is obsessed with cleaning. He is always tidy and likes to sort things by color, brands, and type.– He’s shy with strangers. He prefers it if other people initiate conversations and gets close to him.– He enlisted in the military on July 1st, 2019. He was discharged on January 25, 2021.– On October 18, 2023 it was announced that D.O. left SM Ent., however he is still an EXO member.– As of November 2023, he is under the agency 컴퍼니수수 (Company Soosoo) for his personal activities.",
+            "group_id": 8
+        },
+        {
+            "id": 47,
+            "stage_name": "Kai (카이)",
+            "birth_name": "Kim Jong In (김종인)",
+            "img_url": "https://preview.redd.it/exo-7th-full-album-exist-teaser-images-hear-me-out-kai-chen-v0-ys0oxrahsk8b1.jpg?width=2731&format=pjpg&auto=webp&s=115ddadf1587e18d677896157033a72b93361263",
+            "birthday": "January 14, 1994",
+            "height": "182 cm (5’11″)",
+            "weight": "67 kg (148 lbs)",
+            "blood_type": "A",
+            "mbti": "INFJ",
+            "nationality": "Korean",
+            "instagram": "@zkdlin",
+            "facts": "– Hometown: Suncheon, South Jeolla Province/Jeollanam-do, S. Korea.– Has 2 older sisters (one 9 years older and another 5 years older).– Education: School of Performing Arts Seoul.– Personality: kind-hearted, quiet, shy, and very gentle, hard to express feelings.– Kai has the hottest temper out of all of the members.– He became a SM trainee in 2007, when he was 13.– Specialties: Dance (ballet, jazz, hip hop, popping, rocking).– He has a habit of often biting his lips.– He loves playing video games.– He is friends with SHINee’s Taemin, BTS’s Jimin, Ravi and HOTSHOT’s Sungwoon.– He says that as long as people love him, he’ll return that love with double the amount.– Kai is ranked 51st on TC Candler “The 100 Most Handsome Faces of 2018”.– He is part of SuperM.– Kai officially debuted as a soloist on November 30, 2020.– He enlisted on May 11, 2023.",
+            "group_id": 8
+        },
+        {
+            "id": 48,
+            "stage_name": "Sehun (세훈)",
+            "birth_name": "Oh Se Hun (오세훈)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2023/06/EXO_EXIST_Teaser_Let_Me_in_Sehun_3.jpg",
+            "birthday": "April 12, 1994",
+            "height": "183 cm (6’0″)",
+            "weight": "66 kg (145 lbs)",
+            "blood_type": "O",
+            "mbti": "INTP",
+            "nationality": "Korean",
+            "instagram": "@oohsehun",
+            "facts": "– Hometown: Seoul, South Korea.– He has an older brother (3 years older).– Education: School of Performing Arts Seoul.– He’s a former ulzzang.– Sehun became a SM trainee in 2008, when he was 14.– He has a habit of sticking out his tongue.– His personality is shy.– Specialties: Dancing, acting– He’s not really good in pronouncing the letter S.– His favorite foods are meat and sushi.– He’s really close to Suho. They know each other for 16 years (as of 2023).– He used to share a room with Suho. Sehun and Suho recently revealed that they are no longer roommates, they have separate rooms now.– Sehun is a regular cast of variety show “Busted”.– Sehun is ranked 15th on TC Candler “The 100 Most Handsome Faces of 2018”.– Sehun enlisted on December 21, 2023.",
+            "group_id": 8
+        },
+        {
+            "id": 49,
+            "stage_name": "Jihyo (지효)",
+            "birth_name": "Park Ji Soo (박지수)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_jihyo_2.jpg",
+            "birthday": "February 1st, 1997",
+            "height": "160 cm (5’3″)",
+            "weight": "49 kg (108 lbs)",
+            "blood_type": "O",
+            "mbti": "ESFP-T",
+            "nationality": "Korean",
+            "instagram": "_zyozyo",
+            "facts": "– She was born in Guri, Gyeonggi-do, South Korea.– Her real name is Park Jisoo. Jihyo legalized her name to Park Jihyo right before Sixteen.– She is the TWICE member who trained the most. She trained for 10 years.– Jihyo was voted leader by the members, not JYP (by anonymous voting).– Jihyo’s favorite color is Red.– She chose 21 as her favorite number, because she was born on February 1st.– Jihyo is ambidextrous. (TWICE Showtime)– She made her solo debut on August 18, 2023, with the mini-album ‘ZONE‘.– A few songs she likes are ‘Badlands‘ by Bruce Springsteen, ‘Judas‘ by Lady Gaga, & ‘In The Meantime‘ by Spacehog.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 50,
+            "stage_name": "Nayeon (나연)",
+            "birth_name": "Im Na Yeon (임나연)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_nayeon_2.jpg",
+            "birthday": "September 22nd, 1995",
+            "height": "163 cm (5’4″)",
+            "weight": "47 kg (104 lbs)",
+            "blood_type": "A",
+            "mbti": "ISFP",
+            "nationality": "Korean",
+            "instagram": "nayeonyny",
+            "facts": "– She was born in Myeongil-dong, Gangdong-gu, Seoul, South Korea.– She is the oldest member.– Nayeon was chosen for JYP’s girl group 6mix, but they disbanded and never debuted.– She was the first Sixteen member to be announced and also the first member to be confirmed in TWICE.– Nayeon’s favorite color is Purple (vLive).– Nayeon chose 9 as her favorite number, because TWICE has 9 members.– Nayeon’s left leg is weak due to her being in a car accident in her childhood.– Nayeon and BLACKPINK’s Jisoo and Jennie are very close friends.– On June 24, 2022, Nayeon debuted as a solo artist, with the mini-album ‘IM NAYEON‘, featuring the title track ‘POP!’.– A few songs she likes are ‘Badlands‘ by Bruce Springsteen,  ‘Creep (Acoustic)‘ by Radiohead, ‘Reasons” by Earth, Wind & Fire, & ‘In The Meantime‘ by Spacehog.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 51,
+            "stage_name": "Jeongyeon (정연)",
+            "birth_name": "Yoo Kyung Wan (유경완)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_jeongyeon_2.jpg",
+            "birthday": "November 1st, 1996",
+            "height": "167 cm (5’6″)",
+            "weight": "50 kg (110 lbs)",
+            "blood_type": "O",
+            "mbti": "ISFJ",
+            "nationality": "Korean",
+            "instagram": "jy_piece",
+            "facts": "– She was born in Jeonja-dong-gu, Jangan, Suwon, Gyeonggi, South Korea.– Jeongyeon’s birth name is Yoo Kyung Wan. She changed her name in 3rd grade because she was teased as her name sounded like a boy’s name.– Her father, Yoo Chang-joon, is a popular Korean traditional chef.– She has 2 older sisters: Gong Seungyeon (actress) and Seo Yeon (office worker).– It was revealed that she is a distant relative of KARD‘s Somin.– The leader of TWICE was decided by anonymous voting. Jeongyeon was in 2nd place.– Jeongyeon chose 0 as her favorite number, because she doesn’t actually have a favorite number.– The happiest part of Jeongyeon’s day is taking off her contact lenses.– Jeongyeon is ambidextrous. (TWICE Showtime)– She is in charge of cleaning the dorm. She likes cleaning.– A song she likes is ‘I Will Dare‘ by The Replacements.",
+            "group_id": 9
+        },
+        {
+            "id": 52,
+            "stage_name": "Momo (모모)",
+            "birth_name": "Hirai Momo (平井 もも)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_momo_1.jpg",
+            "birthday": "November 9th, 1996",
+            "height": "163 cm (5’4″)",
+            "weight": "48.5 kg (106 lbs)",
+            "blood_type": "A",
+            "mbti": "INFP-T",
+            "nationality": "Japanese",
+            "instagram": "momo",
+            "facts": "– She was born in Kyōtanabe, Kyoto, Japan.– Momo has an older sister, named Hana.– She was scouted by JYP Entertainment after they saw a dance video of her and her older sister.– She passed the audition on April 13, 2012. Her sister didn’t make it though.– Momo was eliminated in ep 6 of SIXTEEN, but J.Y.Park decided to add her as a member of TWICE, because of her dancing skills.– Her name means Peach in Japanese.– Momo chose 64 as her favorite no., because it’s the number on her father’s shirt when he plays football.– Momo and GOT7‘s BamBam both have moms who are big fans of Rain.– Momo’s family have 3 dogs, who are named Petco, Pudding, and Lucky (they are all females).– A few songs she likes are ‘Come and Get Your Love‘ by Redbone, ‘Creep (Acoustic)‘ by Radiohead, ‘Reasons” by Earth, Wind & Fire, & ‘No Sleep Till Brooklyn‘ by Beastie Boys.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 53,
+            "stage_name": "Sana (사나)",
+            "birth_name": "Minatozaki Sana (湊崎 紗夏)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_sana_2.jpg",
+            "birthday": "December 29th, 1996",
+            "height": "163 cm (5’4″)",
+            "weight": "47 kg (104 lbs)",
+            "blood_type": "B",
+            "mbti": "ENFP",
+            "nationality": "Japanese",
+            "instagram": "m.by__sana",
+            "facts": "– She was born in Tennōji-ku, Osaka, Japan.– Sana is an only child.– Sana got cast while she was shopping with her friends.– She passed the audition on April 13, 2012.– Favorite Colors: Purple, Pink, White, Black, and Beige. But she doesn’t like Purple clothing.– She is close with Miyeon of (G)I-DLE.– Sana chose 12 as her favorite number (her birthday month), because Mina took the number 37.– A few songs she likes are  ‘Badlands‘ by Bruce Springsteen,  ‘Reasons” by Earth, Wind & Fire, ‘In The Meantime‘ by Spacehog, & ‘Judas‘ by Lady Gaga.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 54,
+            "stage_name": "Mina (미나)",
+            "birth_name": "Myoui Mina (名井 南)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_mina_2.jpg",
+            "birthday": "March 24th, 1997",
+            "height": "163 cm (5’4″)",
+            "weight": "46 kg (101 lbs)",
+            "blood_type": "A",
+            "mbti": "ISTP",
+            "nationality": "Japanese",
+            "instagram": "mina_sr_my",
+            "facts": "– She was born in San Antonio, Texas, USA– Her parents are both Japanese.– She moved to Kobe, Japan, when she was a toddler.– She has an older brother, named Kai.– Her father, Akira Myoui, is a clinical professor at Osaka University Hospital.– She used to have American citizenship but she gave it up as of 2019.– She auditioned for a JYP audition in Japan and joined the trainee program in South Korea on January 2, 2014.– Mina chose 37 as her fav. no., because “37” in Japanese it’s pronounced as “Mi” or “San” (3) and “Nana” [often shortened to Na] (7).– Mina’s favorite sentence in Japanese is “The opposite of love is not hate, but indifference.“– A few songs she likes are ‘Badlands‘ by Bruce Springsteen,  ‘Crazy On You‘ by Heart, & ‘In The Meantime‘ by Spacehog.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 55,
+            "stage_name": "Dahyun (다현)",
+            "birth_name": "Kim Da Hyun (김다현)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_dahyun_2.jpg",
+            "birthday": "May 28th, 1998",
+            "height": "161 cm (5’3″)",
+            "weight": "48.9 kg (108 lbs)",
+            "blood_type": "O",
+            "mbti": "ISFJ-T",
+            "nationality": "Korean",
+            "instagram": "dahhyunnee",
+            "facts": "– She was born in Eunhaeng-dong, Jungwon-gu, Seongnam, Gyeonggi-do, South Korea.– Dahyun has an older brother, Myung Soo.– In middle school, she performed a solo in a youth dance festival and was scouted by JYP Entertainment.– She passed the audition on July 7, 2012, and officially became a trainee.– She was the most popular during Sixteen.– Dahyun chose 7 as her fav. no., because she became a TWICE member on July 7th and because she’s the 7th oldest in TWICE.– She and Chaeyoung are in charge of washing the dishes at the dorm.– A few songs likes are ‘Come and Get Your Love‘ by Redbone & ‘Reasons” by Earth, Wind & Fire.– She also likes ‘Guardians of the Galaxy Vol. 3‘.",
+            "group_id": 9
+        },
+        {
+            "id": 56,
+            "stage_name": "Chaeyoung (채영)",
+            "birth_name": "Son Chae Young (손채영)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_chaeyoung_2.jpg",
+            "birthday": "April 23rd, 1999",
+            "height": "158.9 cm (5’3″)",
+            "weight": "46 kg (101 lbs)",
+            "blood_type": "B",
+            "mbti": "INFP-T",
+            "nationality": "Korean",
+            "instagram": "chaeyo.0",
+            "facts": "– She was born in Dunchon-dong, Gangdong, Seoul, South Korea.– Chaeyoung has a younger brother, Jeong Hun, which is an aspiring model.– She passed the audition on June 6, 2012.– Chaeyoung chose 29 as her favorite number, because 2 (TWICE) and 9 (Number of members).– She and Dahyun are in charge of washing the dishes at the dorm.– Her and BLACKPINK‘s Rosé are close.– A few songs she likes are ‘Come and Get Your Love‘ by Redbone, ‘Crazy On You‘ by Heart, & ‘Reasons” by Earth, Wind & Fire.",
+            "group_id": 9
+        },
+        {
+            "id": 57,
+            "stage_name": "Tzuyu (쯔위)",
+            "birth_name": "Chou Tzuyu (周子瑜)",
+            "img_url": "https://dbkpop.com/wp-content/uploads/2021/09/twice_the_feels_teaser_tzuyu_1.jpg",
+            "birthday": "June 14th, 1999",
+            "height": "170 cm (5’7″)",
+            "weight": "48 kg (106 lbs)",
+            "blood_type": "A",
+            "mbti": "ISFP-A",
+            "nationality": "Taiwanese",
+            "instagram": "thinkaboutzu",
+            "facts": "– She was born in Tainan, Taiwan.– Tzuyu is the tallest member.– She was discovered by JYP at the MUSE Performing Arts Workshop in Tainan in 2012 and went to South Korea on November 15, 2012, to start her training.– Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Chaeyoung, and Tzuyu appeared in J.Y. Park‘s “Fire” M/V.– Tzuyu’s family has a dog named Gucci, her mom’s friend named it after the brand.– Tzuyu’s favorite number is 25, because she thinks it is a cool number.– The body parts that Tzuyu has the most confidence in are her eyes and chin.– She is close to Rosé (BLACKPINK), CLC‘s Elkie, and (G)I-DLE‘s Shuhua.– Tzuyu said that, if she were to be born again, she wants to be born as a short girl.– A few songs she likes are  ‘I Will Dare‘ by The Replacements & ‘No Sleep Till Brooklyn‘ by Beastie Boys.",
+            "group_id": 9
         }
     ],
     "positions": [
@@ -335,6 +1022,10 @@
         {
             "id":14,
             "name": "Maknae"
+        },
+        {
+            "id":15,
+            "name": "Producer"
         }
     ],
     "idol-positions": [
@@ -562,6 +1253,506 @@
             "id": 43,
             "idol_id": 16,
             "position_id": 14
+        },
+        {
+            "id": 44,
+            "idol_id": 17,
+            "position_id": 1
+        },
+        {
+            "id": 45,
+            "idol_id": 17,
+            "position_id": 9
+        },
+        {
+            "id": 46,
+            "idol_id": 17,
+            "position_id": 5
+        },
+        {
+            "id": 47,
+            "idol_id": 18,
+            "position_id": 2
+        },
+        {
+            "id": 48,
+            "idol_id": 18,
+            "position_id": 9
+        },
+        {
+            "id": 49,
+            "idol_id": 19,
+            "position_id": 4
+        },
+        {
+            "id": 50,
+            "idol_id": 19,
+            "position_id": 15
+        },
+        {
+            "id": 51,
+            "idol_id": 20,
+            "position_id": 2
+        },
+        {
+            "id": 52,
+            "idol_id": 20,
+            "position_id": 10
+        },
+        {
+            "id": 53,
+            "idol_id": 21,
+            "position_id": 7
+        },
+        {
+            "id": 54,
+            "idol_id": 21,
+            "position_id": 15
+        },
+        {
+            "id": 55,
+            "idol_id": 21,
+            "position_id": 9
+        },
+        {
+            "id": 56,
+            "idol_id": 22,
+            "position_id": 5
+        },
+        {
+            "id": 57,
+            "idol_id": 22,
+            "position_id": 10
+        },
+        {
+            "id": 58,
+            "idol_id": 23,
+            "position_id": 3
+        },
+        {
+            "id": 59,
+            "idol_id": 24,
+            "position_id": 9
+        },
+        {
+            "id": 60,
+            "idol_id": 24,
+            "position_id": 14
+        },
+        {
+            "id": 61,
+            "idol_id": 25,
+            "position_id": 6
+        },
+        {
+            "id": 62,
+            "idol_id": 25,
+            "position_id": 11
+        },
+        {
+            "id": 63,
+            "idol_id": 26,
+            "position_id": 4
+        },
+        {
+            "id": 64,
+            "idol_id": 26,
+            "position_id": 6
+        },
+        {
+            "id": 65,
+            "idol_id": 27,
+            "position_id": 3
+        },
+        {
+            "id": 66,
+            "idol_id": 27,
+            "position_id": 5
+        },
+        {
+            "id": 67,
+            "idol_id": 28,
+            "position_id": 2
+        },
+        {
+            "id": 68,
+            "idol_id": 28,
+            "position_id": 7
+        },
+        {
+            "id": 69,
+            "idol_id": 28,
+            "position_id": 9
+        },
+        {
+            "id": 70,
+            "idol_id": 28,
+            "position_id": 14
+        },
+        {
+            "id": 71,
+            "idol_id": 29,
+            "position_id": 1
+        },
+        {
+            "id": 72,
+            "idol_id": 29,
+            "position_id": 2
+        },
+        {
+            "id": 73,
+            "idol_id": 29,
+            "position_id": 6
+        },
+        {
+            "id": 74,
+            "idol_id": 30,
+            "position_id": 9
+        },
+        {
+            "id": 75,
+            "idol_id": 30,
+            "position_id": 11
+        },
+        {
+            "id": 76,
+            "idol_id": 31,
+            "position_id": 3
+        },
+        {
+            "id": 77,
+            "idol_id": 32,
+            "position_id": 5
+        },
+        {
+            "id": 78,
+            "idol_id": 32,
+            "position_id": 9
+        },
+        {
+            "id": 79,
+            "idol_id": 32,
+            "position_id": 10
+        },
+        {
+            "id": 80,
+            "idol_id": 32,
+            "position_id": 11
+        },
+        {
+            "id": 81,
+            "idol_id": 32,
+            "position_id": 12
+        },
+        {
+            "id": 82,
+            "idol_id": 33,
+            "position_id": 4
+        },
+        {
+            "id": 83,
+            "idol_id": 33,
+            "position_id": 9
+        },
+        {
+            "id": 84,
+            "idol_id": 34,
+            "position_id": 7
+        },
+        {
+            "id": 85,
+            "idol_id": 34,
+            "position_id": 9
+        },
+        {
+            "id": 86,
+            "idol_id": 34,
+            "position_id": 14
+        },
+        {
+            "id": 87,
+            "idol_id": 35,
+            "position_id": 1
+        },
+        {
+            "id": 88,
+            "idol_id": 35,
+            "position_id": 2
+        },
+        {
+            "id": 89,
+            "idol_id": 35,
+            "position_id": 6
+        },
+        {
+            "id": 90,
+            "idol_id": 36,
+            "position_id": 2
+        },
+        {
+            "id": 91,
+            "idol_id": 36,
+            "position_id": 7
+        },
+        {
+            "id": 92,
+            "idol_id": 36,
+            "position_id": 9
+        },
+        {
+            "id": 93,
+            "idol_id": 37,
+            "position_id": 4
+        },
+        {
+            "id": 94,
+            "idol_id": 37,
+            "position_id": 9
+        },
+        {
+            "id": 95,
+            "idol_id": 38,
+            "position_id": 6
+        },
+        {
+            "id": 96,
+            "idol_id": 38,
+            "position_id": 8
+        },
+        {
+            "id": 97,
+            "idol_id": 38,
+            "position_id": 11
+        },
+        {
+            "id": 98,
+            "idol_id": 39,
+            "position_id": 3
+        },
+        {
+            "id": 99,
+            "idol_id": 40,
+            "position_id": 5
+        },
+        {
+            "id": 100,
+            "idol_id": 40,
+            "position_id": 9
+        },
+        {
+            "id": 101,
+            "idol_id": 40,
+            "position_id": 11
+        },
+        {
+            "id": 102,
+            "idol_id": 40,
+            "position_id": 14
+        },
+        {
+            "id": 103,
+            "idol_id": 41,
+            "position_id": 1
+        },
+        {
+            "id": 104,
+            "idol_id": 41,
+            "position_id": 6
+        },
+        {
+            "id": 105,
+            "idol_id": 41,
+            "position_id": 11
+        },
+        {
+            "id": 106,
+            "idol_id": 42,
+            "position_id": 9
+        },
+        {
+            "id": 107,
+            "idol_id": 42,
+            "position_id": 10
+        },
+        {
+            "id": 108,
+            "idol_id": 43,
+            "position_id": 3
+        },
+        {
+            "id": 109,
+            "idol_id": 44,
+            "position_id": 3
+        },
+        {
+            "id": 110,
+            "idol_id": 45,
+            "position_id": 4
+        },
+        {
+            "id": 111,
+            "idol_id": 45,
+            "position_id": 9
+        },
+        {
+            "id": 112,
+            "idol_id": 45,
+            "position_id": 11
+        },
+        {
+            "id": 113,
+            "idol_id": 46,
+            "position_id": 3
+        },
+        {
+            "id": 114,
+            "idol_id": 47,
+            "position_id": 2
+        },
+        {
+            "id": 115,
+            "idol_id": 47,
+            "position_id": 10
+        },
+        {
+            "id": 116,
+            "idol_id": 47,
+            "position_id": 9
+        },
+        {
+            "id": 117,
+            "idol_id": 47,
+            "position_id": 12
+        },
+        {
+            "id": 118,
+            "idol_id": 47,
+            "position_id": 11
+        },
+        {
+            "id": 119,
+            "idol_id": 48,
+            "position_id": 5
+        },
+        {
+            "id": 120,
+            "idol_id": 48,
+            "position_id": 7
+        },
+        {
+            "id": 121,
+            "idol_id": 48,
+            "position_id": 11
+        },
+        {
+            "id": 122,
+            "idol_id": 48,
+            "position_id": 14
+        },
+        {
+            "id": 123,
+            "idol_id": 49,
+            "position_id": 1
+        },
+        {
+            "id": 124,
+            "idol_id": 49,
+            "position_id": 3
+        },
+        {
+            "id": 125,
+            "idol_id": 50,
+            "position_id": 6
+        },
+        {
+            "id": 126,
+            "idol_id": 50,
+            "position_id": 5
+        },
+        {
+            "id": 127,
+            "idol_id": 50,
+            "position_id": 12
+        },
+        {
+            "id": 128,
+            "idol_id": 50,
+            "position_id": 13
+        },
+        {
+            "id": 129,
+            "idol_id": 51,
+            "position_id": 6
+        },
+        {
+            "id": 130,
+            "idol_id": 52,
+            "position_id": 2
+        },
+        {
+            "id": 131,
+            "idol_id": 52,
+            "position_id": 9
+        },
+        {
+            "id": 132,
+            "idol_id": 52,
+            "position_id": 10
+        },
+        {
+            "id": 133,
+            "idol_id": 53,
+            "position_id": 9
+        },
+        {
+            "id": 134,
+            "idol_id": 54,
+            "position_id": 2
+        },
+        {
+            "id": 135,
+            "idol_id": 54,
+            "position_id": 9
+        },
+        {
+            "id": 136,
+            "idol_id": 55,
+            "position_id": 7
+        },
+        {
+            "id": 137,
+            "idol_id": 55,
+            "position_id": 9
+        },
+        {
+            "id": 138,
+            "idol_id": 56,
+            "position_id": 4
+        },
+        {
+            "id": 139,
+            "idol_id": 56,
+            "position_id": 9
+        },
+        {
+            "id": 140,
+            "idol_id": 57,
+            "position_id": 5
+        },
+        {
+            "id": 141,
+            "idol_id": 57,
+            "position_id": 9
+        },
+        {
+            "id": 142,
+            "idol_id": 57,
+            "position_id": 11
+        },
+        {
+            "id": 143,
+            "idol_id": 57,
+            "position_id": 14
         }
     ],
     "forums": [
@@ -576,6 +1767,30 @@
         {
             "id": 3,
             "group_id": 3
+        },
+        {
+            "id": 4,
+            "group_id": 4
+        },
+        {
+            "id": 5,
+            "group_id": 5
+        },
+        {
+            "id": 6,
+            "group_id": 6
+        },
+        {
+            "id": 7,
+            "group_id": 7
+        },
+        {
+            "id": 8,
+            "group_id": 8
+        },
+        {
+            "id": 9,
+            "group_id": 9
         }
     ]
 }
