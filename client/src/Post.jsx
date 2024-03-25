@@ -4,10 +4,12 @@ import Comment from './Comment';
 
 function Post({post}) {
 
-    const {currentUser} = useOutletContext
+    const {currentUser} = useOutletContext()
     const [message, setMessage] = useState("")
     const [comments, setComments] = useState(post.comments)
     const [detail, setDetail] = useState(false)
+
+    console.log(currentUser)
     
     async function handleSubmit (e) {
         e.preventDefault()
@@ -39,10 +41,6 @@ function Post({post}) {
     
     const handleCommentChange = (e) => {
         setMessage(e.target.value)
-    }
-
-    function onRender() {
-        setDetail(!detail)
     }
 
     return(

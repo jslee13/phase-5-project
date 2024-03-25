@@ -30,16 +30,17 @@ function SignUp() {
           }
    
     return (
-      <div>
+      <div className="login-container">
             <form onSubmit={handleRegister}>
-                <label> Username:
+                <h2>Sign-up</h2>
+                <label>Set Username:
                     <input 
                     type="text" 
                     value={username} 
                     onChange={(e) => setUsername(e.target.value)} 
                     />
                 </label>
-                <label> Password:
+                <label>Set Password:
                     <input 
                     type="password" 
                     value={password} 

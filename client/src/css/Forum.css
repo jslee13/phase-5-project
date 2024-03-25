@@ -51,30 +51,41 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
-    width: 1000px;
-  }
-  
-  .post-container:hover {
-    background-color: #f0f0f0;
+    width: 100%;
   }
   
   .posts-title {
     margin-top: 0;
+    border: 5px solid #ccc;
+    border-radius: 5px;
   }
   
   .post-comments {
     margin-bottom: 5px;
   }
-  
-  .comment-form {
+
+  .comment {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .comment-message {
     margin-top: 10px;
   }
   
+  .comment-form {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
   .comment-section {
-    width: 97%;
+    width: 100%;
     padding: 5px;
     margin-bottom: 5px;
     resize: vertical;
+    margin-right: 10px;
   }
   
   .comment-section:focus {
@@ -89,6 +100,8 @@
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
+    display: flex;
+    flex-direction: column-reverse;
   }
   
   .comment-form button:hover {
