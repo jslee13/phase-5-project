@@ -1,4 +1,4 @@
-function FilterBar({searchString, setSearchString}){
+function PostFilterBar({searchString, setSearchString}){
 
     function handleSearch(e){
         const searchInput = e.target.value
@@ -9,7 +9,7 @@ function FilterBar({searchString, setSearchString}){
         <div className="search">
             <input 
                 type="text" 
-                placeholder="Search K-pop Group"
+                placeholder="Search Post"
                 value={searchString} 
                 onChange={handleSearch}>
 
@@ -18,4 +18,4 @@ function FilterBar({searchString, setSearchString}){
     )
 }
 
-export default FilterBar;
+export default PostFilterBar;

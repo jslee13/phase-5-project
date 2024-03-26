@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, useOutletContext, useNavigate } from 'react-router-dom';
 import Post from './Post';
+import PostFilterBar from './PostFilterBar';
 
 
 function Forum() {
@@ -8,9 +9,8 @@ function Forum() {
     const {groups} = useOutletContext()
     const [forums, setForums] = useState(null)
     const navigate = useNavigate();
-
-    console.log(groups)
-
+    const [searchString, setSearchString] = useState("")
+    
     useEffect(() => {
         fetch(`http://localhost:5555/groups/${params.id}/forum`)
           .then(res => res.json())
@@ -26,13 +26,24 @@ function Forum() {
         return <h1> Loading... </h1>
     }
 
+    console.log(searchString)
+    console.log(forums.posts)
+
+    const filteredPost = forums.posts.filter((post) => 
+    post.title.toLowerCase().includes(searchString.toLowerCase()) ||
+    post.body.toLowerCase().includes(searchString.toLowerCase()))
+
+    
+
+
     return (
         <div className='forum-container'>
             <div className='forum-header'>
-                <h1> {groups.name} Forum Page </h1>
+                <h1> {forums.group.name} Forum Page </h1>
+                <PostFilterBar searchString={searchString} setSearchString={setSearchString} />
                 <button onClick={handleClick} className="new-post-btn">Add Post</button>
                 <ul>
-                    {forums.posts.map((post) => {
+                    {filteredPost.map((post) => {
                         return (<Post 
                         post={post}
                         key={post.id}

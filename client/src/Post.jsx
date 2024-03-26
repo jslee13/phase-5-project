@@ -7,9 +7,6 @@ function Post({post}) {
     const {currentUser} = useOutletContext()
     const [message, setMessage] = useState("")
     const [comments, setComments] = useState(post.comments)
-    const [detail, setDetail] = useState(false)
-
-    console.log(currentUser)
     
     async function handleSubmit (e) {
         e.preventDefault()

@@ -29,7 +29,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     background-color: #ffffff; 
     cursor: pointer;
-    transition: box-shadow 0.3s ease;
+    transition: box-shadow 0.3s ease, transform 0.3s ease, height 0.8s ease;
 }
 
 .idol-card:hover {

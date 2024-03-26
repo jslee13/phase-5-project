@@ -96,7 +96,7 @@ class Forum(db.Model, SerializerMixin):
     posts = db.relationship("Post", back_populates="forum")
     group = db.relationship("Group", back_populates="forums")
 
-    serialize_rules = ("-posts.forum", "-group")
+    serialize_rules = ("-posts.forum", "-group.forums")
 
 class Post(db.Model, SerializerMixin):
     __tablename__ = "posts_table"

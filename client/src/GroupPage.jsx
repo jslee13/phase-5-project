@@ -1,7 +1,7 @@
-import FilterBar from "./FilterBar";
+import GroupFilterBar from "./GroupFilterBar";
 import GroupContainer from "./GroupContainer";
 import { useState } from "react";
-import { useOutletContext } from "react-router-dom";
+import { useOutletContext} from "react-router-dom";
 
 function GroupPage(){
     const {groups} = useOutletContext();
@@ -9,9 +9,8 @@ function GroupPage(){
     
     return(
         <div>
-            <FilterBar searchString={searchString} setSearchString={setSearchString} />
+            <GroupFilterBar searchString={searchString} setSearchString={setSearchString} />
             <GroupContainer searchString={searchString} groups={groups}/>
-
         </div>
     )
 }
