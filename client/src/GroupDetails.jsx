@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate , useOutletContext } from 'react-router-dom';
 import IdolContainer from './IdolContainer'
 
@@ -21,7 +20,7 @@ function GroupDetails() {
     return(
             <div className='group-details-container'>
 
-                <button className='forum-button' onClick={handleClick}> Forums </button>
+                <button className='create' onClick={handleClick}> Forums </button>
                 <img className="group-image" src={targetGroup.img_url} />
                 <div className='group-details'>
                     <h2 className="group-name"> {targetGroup.name} </h2>

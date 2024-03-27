@@ -11,6 +11,7 @@
     padding: 0;
     background-color: #cbd4d9;
     margin-bottom: 30px;
+    border-radius: 10px;
   }
 
 .group_item {
@@ -23,7 +24,7 @@
     width: 250px;
     height: 230px;
     border: 1px solid #ddd; 
-    border-radius: 8px; 
+    border-radius: 10px; 
     overflow: hidden; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     background-color: #ffffff; 
@@ -42,6 +43,7 @@
 .group-image {
     width: 800px;
     height: 500px;
+    margin-top: 20px;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
@@ -62,11 +64,11 @@
     border: 1px solid black;
     border-radius: 8px;
     width: 1000px;
-    color: white;
+    color: #222222;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
-    background-color: #002f30;
+    background-color: #cbd4d9;
     border-style: solid;
     border-color: white;
     border-width: 2px
@@ -74,7 +76,7 @@
 
 .group-card {
     text-align: center;
-    color: black;
+    color: #222222;
     border-style: inset;
     border-color: black;
 }
@@ -99,6 +101,3 @@
     margin-bottom: 10px
 }
 
-/* .group-card:hover .group-image-cover {
-  transform: scale(1.05);
-} */

@@ -42,7 +42,7 @@ function Forum() {
                 <h1> {forums.group.name} Forum Page </h1>
                 <PostFilterBar searchString={searchString} setSearchString={setSearchString} />
                 <button onClick={handleClick} className="new-post-btn">Add Post</button>
-                <ul>
+                <ul className='posts-container'>
                     {filteredPost.map((post) => {
                         return (<Post 
                         post={post}

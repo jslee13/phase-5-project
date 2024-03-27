@@ -22,6 +22,20 @@ class User(db.Model, SerializerMixin):
 
     serialize_rules = ("-posts", "-comments")
 
+    @validates("username")
+    def validates_username(self, key, username):
+        if len(username) >= 3:
+            return username
+        else:
+            raise ValueError("Username must be at least 3 characters")
+    
+    @validates("password")
+    def validates_password(self, key, password):
+        if password and len(password) >= 3:
+            return password
+        else:
+            raise ValueError("Password must be present and have at least 3 characters")
+
 class Group(db.Model, SerializerMixin):
     __tablename__ = "groups_table"
 
@@ -113,6 +127,20 @@ class Post(db.Model, SerializerMixin):
 
     serialize_rules = ("-user.posts", "-forum", "-comments.post")
 
+    @validates("title")
+    def validates_username(self, key, title):
+        if title:
+            return title
+        else:
+            raise ValueError("Title must be present")
+    
+    @validates("body")
+    def validates_password(self, key, body):
+        if body:
+            return body
+        else:
+            raise ValueError("Body must be present")
+
 class Comment(db.Model, SerializerMixin):
     __tablename__ = "comments_table"
 
@@ -125,3 +153,10 @@ class Comment(db.Model, SerializerMixin):
     post = db.relationship("Post", back_populates="comments")
 
     serialize_rules = ("-user.comments", "-post")
+
+    @validates("message")
+    def validates_username(self, key, message):
+        if message:
+            return message
+        else:
+            raise ValueError("Message must be present")

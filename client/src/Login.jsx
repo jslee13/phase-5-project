@@ -1,11 +1,10 @@
-import React from 'react';
 import { useState } from 'react';
 import {useNavigate, useOutletContext} from "react-router-dom";
 
 
 function Login() {
 
-    const {currentUser, setCurrentUser} = useOutletContext()
+    const {setCurrentUser} = useOutletContext()
     const navigate = useNavigate()
 
     

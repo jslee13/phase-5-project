@@ -30,7 +30,7 @@ function handleSubmit(e) {
         if (res.ok) {
             navigate(`/groups/${params.id}/forum`);
         } else {
-            throw new Error('Failed to submit the form')
+            alert('Invalid post')
         }
     })
     .catch(error => {

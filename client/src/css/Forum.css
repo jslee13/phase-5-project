@@ -29,16 +29,17 @@
   }
   
   .new-post-btn {
-    background-color: #0079d3;
+    background-color: #222222;
     color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    transition: background-color 0.3s;
   }
   
   .new-post-btn:hover {
-    background-color: #005ea6;
+    background-color: grey;
   }
   
   .posts-list {
@@ -47,7 +48,7 @@
     width: 100%;
     max-width: 600px;
   }
-  
+ 
   .post-container {
     margin-bottom: 20px;
     border: 1px solid #ccc;
@@ -61,10 +62,6 @@
   
   .posts-title {
     margin-top: 0;
-    /* border: 5px solid #ccc; */
-    /* border-radius: 5px; */
-    /* text-decoration-line: underline;
-    text-decoration-style: double; */
     border-style: inset;
     text-align: center;
   }
@@ -73,9 +70,6 @@
     font-size: small;
     font-style: italic;
   }
-  /* .post-body {
-    border-style: solid;
-  } */
   
   .post-comments {
     margin-bottom: 5px;
@@ -88,9 +82,14 @@
     border-style: inset;
   }
 
+  .comment-user {
+    margin-top: auto;
+    font-size: small;
+    font-style: italic;
+  }
+
   .comment-message {
-    margin-top: 10px;
-    font-size: large;
+    margin-bottom: 20px;
   }
   
   .comment-form {
@@ -110,11 +109,11 @@
   
   .comment-section:focus {
     outline: none;
-    border: 1px solid #0079d3;
+    border: 1px solid #222222;
   }
   
   .comment-form button {
-    background-color: #0079d3;
+    background-color: #222222;
     color: white;
     border: none;
     padding: 5px 10px;
@@ -122,10 +121,11 @@
     cursor: pointer;
     display: flex;
     flex-direction: column-reverse;
+    transition: background-color 0.3s;
   }
   
   .comment-form button:hover {
-    background-color: #005ea6;
+    background-color: gray;
   }
   
   .new-post-form {

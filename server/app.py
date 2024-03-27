@@ -63,7 +63,7 @@ def add_user():
         return new_user.to_dict(), 201
     
     except ValueError as error:
-        return {'error': f'{error}'}, 406
+        return {'error': f'{error}'}, 422
     except:
         return {'error': 'Invalid data'}, 422
 
