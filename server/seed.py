@@ -25,14 +25,6 @@ if __name__ == '__main__':
 
         print("Starting seed...")
 
-      
-        users = [
-            User(username="Kpooper", password="Secret"),
-            User(username="DefinatelyNotKorean", password="Secret")
-        ]
-
-        db.session.add_all(users)
-        print("Seeding Users")
 
         def create_groups():
 
@@ -112,20 +104,6 @@ if __name__ == '__main__':
         print("Seeding Forums")
 
 
-        post = [
-            Post(title="This group is Something Special", body="I do not know what is going on, but they are something", forum_id=1, user_id=2),
-            Post(title="Where am I?", body="Just saying hi", forum_id=1, user_id=1),
-            Post(title="Something else going on here", body="I am confused.....anyone else?", forum_id=2, user_id=1)
-        ]
-        db.session.add_all(post)
-        print("Seeding Posts")
-
-        comment = [
-            Comment(message="For sure!", post_id=1, user_id=1),
-            Comment(message="Cool story bro!", post_id=1, user_id=2),
-            Comment(message="Not me lol", post_id=2, user_id=2)
-        ]
-        db.session.add_all(comment)
         db.session.commit()
 
         print("Seeding Done")

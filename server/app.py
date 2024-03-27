@@ -60,6 +60,7 @@ def add_user():
         new_user.password = bcrypt.generate_password_hash(data['password']).decode('utf-8')
         db.session.add(new_user)
         db.session.commit()
+        session['user_id'] = new_user.id
         return new_user.to_dict(), 201
     
     except ValueError as error:
