@@ -10,8 +10,8 @@
   }
 
 body {
-    background-color: #002f30;
     color: white;
+    background-color: #222222;
   }
 
 .search {
@@ -41,7 +41,7 @@ body {
   }
 
   .footer {
-    background-color: var(--lilac-purple);
+    background-color: #cbd4d9;
     color: white;
     padding: 20px;
   }

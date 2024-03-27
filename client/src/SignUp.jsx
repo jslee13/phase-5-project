@@ -22,7 +22,7 @@ function SignUp() {
             if (res.ok) {
               const data = await res.json()
               setCurrentUser(data)
-              navigate("/login")
+              navigate("/")
             } else {
               alert('Invalid sign up')
             }
